@@ -248,5 +248,5 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 
 185. Prepare to Launch! Approval, Testing, Bugs and Beyond
 186. Pre-Launch Checklist: What to Do Before You Launch
-186-Pre-Launch-Checklist.docx
+  186-Pre-Launch-Checklist.docx
 187. Bonus: Convincing Clients/Stakeholders to Include UX in Requirements Work
