@@ -61,8 +61,8 @@ Decision Paths:
 The most important principle of good UI/UX is **progressive disclosure**.  
 Information presented to someone who isn't _interested_ in it - or isn't ready to _process_ it - is **noise**.  
 
-![decision-path-example.png](screenshots/decision-path-example.png)
-![progressive-disclosure.png](screenshots/progressive-disclosure.png)
+![decision-path-example.png](../img/decision-path-example.png)
+![progressive-disclosure.png](../img/progressive-disclosure.png)
 
 ## Section 4 - Planning for Success
 
@@ -253,7 +253,7 @@ Are there form factor restrictions?
    - Ask them what's working and what isn't.  
    - Ask them which people - in what roles - are involved in content creatiion, editing, and approval.  
 
-![](screenshots/identifying-content-workflows_01.png)  
+![](../img/identifying-content-workflows_01.png)  
 
 2) Define tasks and activities
    - Adding text, photos, video, Twitter feeds, forms, etc.
@@ -266,7 +266,7 @@ Are there form factor restrictions?
    - Formatting headers, tables, captions, links, etc.
 
 3) Diagram the process  
-![](screenshots/identifying-content-workflows_02.png)  
+![](../img/identifying-content-workflows_02.png)  
 
 4) Ask questions as you diagram  
   - Can authors creat new pages or just edit existing ones?
