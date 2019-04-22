@@ -178,6 +178,7 @@ Be realistic about what matters most b/c you can't test everything.
 
 
 ## Section 5 - Architecture: Creating a Solid Foundation
+
 ### 36 Information Architecture: Organizing Content and Flow
 4 Components (Rosenfeld and Morville)
 1) Organizational structure
