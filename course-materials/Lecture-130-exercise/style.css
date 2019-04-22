@@ -1,0 +1,44 @@
+
+#header{
+	
+	width: 990px;
+	height: 19px;
+	padding: 13px 0px 17px 19px;
+	background-color: #6f8ca3; 
+}
+
+#navigation{
+width: 586px;
+float: left;
+}
+#social-icons{
+width: 124px;
+float: right;
+	
+}
+#social-icons img{
+margin-right: 11px;	
+}
+
+#navigation ul{
+padding: 0px;
+margin: 0px;	
+}
+#navigation li{
+display: inline;	
+}
+
+#navigation li a{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 18px;
+color:#fff;
+text-decoration: none;
+background-image: url(images/menu-bar.png);
+background-position: right center;
+background-repeat: no-repeat;
+padding:0px 23px 0px 21px;
+}
+#navigation li.last >a {
+	background-image:none;
+}
+

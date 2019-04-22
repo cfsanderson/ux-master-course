@@ -1,0 +1,155 @@
+
+body{
+font-family: Helvetica, Arial, Sans-serif;	
+}
+/* head styles start here */
+#header{
+	
+	width: 1001px;
+	height: 19px;
+	padding: 13px 0px 17px 19px;
+	background-color: #6f8ca3; 
+}
+
+#navigation{
+width: 586px;
+float: left;
+}
+#social-icons{
+width: 124px;
+float: right;
+	
+}
+#social-icons img{
+margin-right: 11px;	
+}
+
+#navigation ul{
+padding: 0px;
+margin: 0px;	
+}
+#navigation li{
+display: inline;	
+}
+
+#navigation li a{
+font-family: Helvetica, Arial, sans-serif;
+font-size: 18px;
+color:#fff;
+text-decoration: none;
+background-image: url(images/menu-bar.png);
+	background-position: right center;
+background-repeat: no-repeat;
+padding:0px 23px 0px 21px;
+}
+#navigation li.last >a {
+	background-image:none;
+}
+/* content styles start here */
+#banner {
+	width: 1020px;
+background-image: url(images/banner.png);
+background-repeat: no-repeat;
+
+height: 372px;
+	
+}
+#banner-intro{
+width: 454px;
+position: relative;
+top: 19px;
+left: 478px;	
+}
+
+#banner-intro h1{
+margin: 0px;
+color: #3e5971;
+font-size: 36px;
+font-weight: bold;
+
+}
+
+#banner-intro h2{
+margin: 0px;
+color: #6f8ca3;
+font-weight: bold;
+font-size: 18px;
+
+
+}
+
+#banner-intro p{
+color: #393f44;
+font-size: 15px;	
+}
+
+#content{
+width: 952px;
+height: 263px;
+padding: 27px 30px 33px 38px;
+background-color: #e2e6d9;	
+}
+
+.cols{
+width: 276px;
+height: 145px;
+font-size: 12px;	
+}
+#col1{
+margin-right: 60px;
+float: left;
+}
+#col2{
+margin-right: 60px;
+float: left;
+}
+#col3{
+float: left;
+}
+#content h3{
+color: #9b9e93;
+font-size: 24px;	
+}
+#content p{
+color: #393f44;
+font-size: 12px;	
+}
+
+
+/* footer styles start here */
+#footer{
+width: 983px;	
+height: 60px;
+background-color:#6f8ca3;
+padding: 13px 3px 27px 36px;
+}
+
+#logo-footer{
+float: left;	
+}
+#social-icons-footer{
+float:right;	
+
+}
+#social-icons-footer img{
+margin-right: 11px;	
+}
+
+#logo-footer h3{
+color:#eef4f8;
+font-size: 24px;
+font-weight: bold;
+display: inline;
+}
+
+#logo-footer h4{
+color:#c4d6e5;
+display: inline;
+font-size: 14px;
+font-weight:bold;	
+margin-left: 8px;
+}
+#logo-footer p{
+color: #c4d6e5;
+font-size: 11px;	
+}

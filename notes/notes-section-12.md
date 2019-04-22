@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 12 Development – WordPress Content Management System (CMS)
 135. Installing WordPress Automatically: Using Your Hosting Provider's CPanel
 136. Installing WordPress Manually: Using an FTP Client

@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 1 Course Overview
 - [Section 1 Course Overview](#section-1-course-overview)
   - [Welcome: Get Ready to Define, Design and Code!](#welcome-get-ready-to-define-design-and-code)

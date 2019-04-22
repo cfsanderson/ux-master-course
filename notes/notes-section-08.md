@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 8 Design: Information, Interaction and Interface
 73. "What's It Gonna Look Like?" An Introduction to Design
 74. Defining Appropriate User Interface (UI) Design

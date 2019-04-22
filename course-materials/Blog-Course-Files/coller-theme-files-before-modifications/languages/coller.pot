@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Coller\n"
+"POT-Creation-Date: 2014-09-03 19:07+0530\n"
+"PO-Revision-Date: 2014-09-03 19:08+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_x;esc_attr_e;_ex\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/Rohit/Documents/Sites/"
+"Wordpress/wp-content/themes/coller\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:51
+msgid "Images"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:60
+msgid "Links"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/archive.php:63
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:36
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:37
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:38
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-page.php:18
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:24
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:60
+msgid "Pages:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-page.php:23
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:65
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:34
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:78
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:71
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:33
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:36
+msgid ", "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:41
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:43
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:49
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content-single.php:51
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content.php:15
+msgid "Leave a comment"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/content.php:15
+msgid "% Comments"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/footer.php:32
+#, php-format
+msgid "%1$s Theme by %2$s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:76
+msgid "Primary Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:77
+msgid "Footer Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:103
+msgid "Sidebar"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:157
+msgid "Coller Recent Posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:158
+msgid "Display your recent posts, with a Thumbnail."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:224
+msgid "Latest Articles"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:230
+msgid "5"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:234
+msgid "Title:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/functions.php:237
+msgid "No. of Posts:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:147
+msgid "Coller Theme Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:148
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:376
+msgid "Coller Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:192
+msgid "Clear"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:193
+msgid "Default"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:194
+msgid "Select Color"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:239
+msgid "Save Options"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:240
+msgid "Restore Defaults"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:240
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:272
+msgid "Default options restored."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-framework.php:326
+msgid "Options saved."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:54
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:56
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:237
+msgid "No Repeat"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:238
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:239
+msgid "Repeat Vertically"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:240
+msgid "Repeat All"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:253
+msgid "Top Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:254
+msgid "Top Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:255
+msgid "Top Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:256
+msgid "Middle Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:257
+msgid "Middle Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:258
+msgid "Middle Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:259
+msgid "Bottom Left"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:260
+msgid "Bottom Center"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:261
+msgid "Bottom Right"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:274
+msgid "Scroll Normally"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:275
+msgid "Fixed in Place"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:349
+msgid "Normal"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:350
+msgid "Italic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:351
+msgid "Bold"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/options-sanitize.php:352
+msgid "Bold Italic"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:81
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:186
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/inc/template-tags.php:194
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:31
+msgid "Basic Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:35
+msgid "Site Logo"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:36
+msgid ""
+"Size of Logo should be Exactly 360x125px For Best Results. Leave Blank to "
+"use text Heading."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:42
+msgid ""
+"To have more customization options including Favicon, Responsive Navigation "
+"Settings, Custom Scripts, etc. <a href=\"http://rohitink.com/product/coller-"
+"pro\" target=\"_blank\">Upgrade to Pro</a> at Just $24.95. Pro Version also "
+"supports customization of theme into unlimited colors. With Coller pro, you "
+"can design your own unique theme."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:47
+msgid "Copyright Text"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:48
+msgid ""
+"Some Text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:54
+msgid "Custom CSS"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:55
+msgid "Some Custom CSS for your site."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:63
+msgid "Slider Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:67
+msgid "Enable Slider"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:68
+msgid "Check this to Enable Slider."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:74
+msgid ""
+"To Customize the the slider with more settings like Transition Effect, "
+"Transition Duration, Adaptive Heights, Touch Enable on Touch Screen Devices, "
+"etc. <a href=\"http://rohitink.com/product/coller-pro\" target=\"_blank"
+"\">Upgrade to Pro</a> at Just $24.95"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:79
+msgid "Using the Slider"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:80
+msgid ""
+"This Slider supports upto 5 Images. To show only 3 Slides in the slider, "
+"upload only 3 images. Leave the rest Blank. For best results, upload images "
+"of width more than 1100px"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:84
+msgid "Slider Image 1"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:85
+msgid "First Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:91
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:110
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:129
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:148
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:167
+msgid "Title"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:97
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:116
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:135
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:154
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:173
+msgid "Url"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:103
+msgid "Slider Image 2"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:104
+msgid "Second Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:122
+msgid "Slider Image 3"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:123
+msgid "Third Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:141
+msgid "Slider Image 4"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:142
+msgid "Fourth Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:160
+msgid "Slider Image 5"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:161
+msgid "Fifth Slide"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:181
+msgid "Social Settings"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:185
+msgid "Facebook"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:186
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:193
+msgid "Twitter"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:194
+msgid "Twitter Username"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:201
+msgid "Google Plus"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:202
+msgid "Google Plus profile url, including \"http://\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:209
+msgid "Pinterest"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:210
+msgid "Pinterest profile url, including \"http://\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:217
+msgid "Linked In"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:218
+msgid "Linkedin profile url, including \"http://\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:225
+msgid "Instagram"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:226
+msgid "Instagram profile url, including \"http://\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:233
+msgid "YouTube"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:234
+msgid "YouTube Channel url, including \"http://\""
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:241
+msgid "Feeburner"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:242
+msgid "URL for your RSS Feeds"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:249
+msgid ""
+"For More Social Icons. <a href=\"http://rohitink.com/product/coller-pro\" "
+"target=\"_blank\">Upgrade to Pro</a> at Just $24.95"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:254
+msgid "Support"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:258
+msgid ""
+"Coller WordPress theme has been Designed and Created by <a href=\"http://"
+"rohitink.com\" target=\"_blank\">Rohit Tripathi</a>. For any Queries or help "
+"related to the theme you can <a href=\"http://wordpress.org/support/theme/"
+"coller/\" target=\"_blank\">Visit Support Forums.</a>."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:262
+msgid ""
+"I offer Dedicated Personal e-mail support to all the Pro Version Customers. "
+"<a href=\"http://rohitink.com/product/coller-pro\" target=\"_blank\">Upgrade "
+"to Pro</a> at Just $24.95"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:267
+msgid ""
+"<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on "
+"Twitter</a> to know about my upcoming themes."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:271
+msgid "Theme Credits"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:272
+msgid ""
+"Check this if you want to you do not want to give us credit in your site "
+"footer."
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/options.php:278
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/searchform.php:9
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/searchform.php:10
+msgid "Search for:"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/searchform.php:10
+msgid "Search &hellip;"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: /Volumes/Macintosh
+#: HD/Users/Rohit/Documents/Sites/Wordpress/wp-content/themes/coller/sidebar.php:24
+msgid "Meta"
+msgstr ""

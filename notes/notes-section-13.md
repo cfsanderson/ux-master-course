@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 13 Exercises: Build A Blog with WordPress
 158. Exercise: Customizing Your Theme Header, Part 01
   Blog Course Files.zip

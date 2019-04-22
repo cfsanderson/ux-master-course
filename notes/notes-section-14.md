@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 14 Development - Ecommerce Website with WooCommerce
 162. Installing WooCommerce
 163. Basic Settings: Getting Started with WooCommerce

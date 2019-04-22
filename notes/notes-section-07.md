@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 7 Architecture: Creating a Solid Foundation Part III
 58. Navigation Design
 59. Primary and Secondary Navigation

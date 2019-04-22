@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 3 Definition: Planning for Success Part II
 11. It's Not Just About Users: The UX Value Loop
 12. Business Stakeholder Research

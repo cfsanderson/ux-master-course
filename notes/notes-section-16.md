@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 16 Launch and Beyond
 1.   Prepare to Launch! Approval, Testing, Bugs and Beyond
 2.   Pre-Launch Checklist: What to Do Before You Launch

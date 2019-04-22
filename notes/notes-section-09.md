@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 9 Design: Information, Interaction and Interface Part II
 81. My Tips for Solving Visual Problems
 82. Organizing Visual Information - Part 01
@@ -15,4 +17,3 @@
   UXW Ecommerce Images
 93. SNACK BREAK: Evaluate Your UI Design
 94. Design Takeaways: Things to Remember
-95. 

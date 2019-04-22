@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 6 Architecture: Creating a Solid Foundation Part II
 47. Exercise: Turning Information Priority into an IA Model
 48. IA Models: Which One's Right for My Site?

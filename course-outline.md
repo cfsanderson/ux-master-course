@@ -1,3 +1,5 @@
+These are my course notes for the [UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/learn/v4/content) on Udemy.
+
 # [Section 1 Course Overview](./notes/notes-section-01.md)
 
 1. Welcome: Get Ready to Define, Design and Code!
@@ -5,6 +7,7 @@
 3. Introduction to UX
 
 # [Section 2 Definition: Planning for Success](./notes/notes-section-02.md)
+
 4. Why Are We Doing This?
 5. Three Crucial Questions (You Must Ask)
 6. What's Worth Doing?
@@ -14,6 +17,7 @@
 10. Exercise: Determining Value & Strategic Opportunity
 
 # [Section 3 Definition: Planning for Success Part II](./notes/notes-section-03.md)
+
 11. It's Not Just About Users: The UX Value Loop
 12. Business Stakeholder Research
 13. Identifying Business Goals
@@ -32,6 +36,7 @@
   GGUX-buy-feature-cards.docx
 
 # [Section 4 Definition: Planning for Success Part III](./notes/notes-section-04.md)
+
 26. Planning for User Testing
 27. Creating a Test Plan: Who Are We Testing For?
 28. Prioritizing Device and Browser Support
@@ -44,6 +49,7 @@
 35. Definition Takeaways: Things to Remember
 
 # [Section 5 Architecture: Creating a Solid Foundation](./notes/notes-section-05.md)
+
 36. Information Architecture: Organizing Content and Flow
 37. What IS Information Architecture (IA)?
 38. Content Strategy: Identifying, Organizing and Delivering
@@ -57,6 +63,7 @@
 46. Exercise: Determining Information Priority
 
 # [Section 6 Architecture: Creating a Solid Foundation Part II](./notes/notes-section-06.md)
+
 47. Exercise: Turning Information Priority into an IA Model
 48. IA Models: Which One's Right for My Site?
 49. Hierarchical Tree IA Model
@@ -70,6 +77,7 @@
 57. SNACK BREAK: Create an IA Model for Your Website
 
 # [Section 7 Architecture: Creating a Solid Foundation Part III](./notes/notes-section-07.md)
+
 58. Navigation Design
 59. Primary and Secondary Navigation
 60. Global and Local Navigation
@@ -89,6 +97,7 @@
 72. Architecture Takeaways: Things to Remember
 
 # [Section 8 Design: Information, Interaction and Interface](./notes/notes-section-08.md)
+
 73. "What's It Gonna Look Like?" An Introduction to Design
 74. Defining Appropriate User Interface (UI) Design
 75. How Definition and IA Inform UI Design
@@ -99,6 +108,7 @@
 80. SNACK BREAK: Identify Design Principles in an Existing UI
 
 # [Section 9 Design: Information, Interaction and Interface Part II](./notes/notes-section-09.md)
+
 81. My Tips for Solving Visual Problems
 82. Organizing Visual Information - Part 01
 83. Organizing Visual Information - Part 02
@@ -117,6 +127,7 @@
 94. Design Takeaways: Things to Remember
 
 # [Section 10 Development - Building a B2B Website with HTML & CSS](./notes/notes-section-10.md)
+
 95. Development: Coding, Customizing and Configuring
 96. Dreaming in Code: You've Got the Power!
 97. Hosting & Domain Considerations
@@ -158,6 +169,7 @@
 129. Styling Forms with CSS: Creating Consistency and Usability
 
 # [Section 11 Exercises: Build A B2B Website with HTML & CSS](./notes/notes-section-11.md)
+
 130. Exercise: Create Your B2B Website Header
   Lecture-130-exercise.zip
 131. Exercise: Create Your B2B Website Content
@@ -169,6 +181,7 @@
 134. Browser Testing: Tips and Tools
 
 # [Section 12 Development – WordPress Content Management System (CMS)](./notes/notes-section-12.md)
+
 135. Installing WordPress Automatically: Using Your Hosting Provider's CPanel
 136. Installing WordPress Manually: Using an FTP Client
 137. The WordPress Dashboard: A Quick Tour of Features and Functions
@@ -194,6 +207,7 @@
 157. Updating WordPress: Automatic and Manual Updates
 
 # [Section 13 Exercises: Build A Blog with WordPress](./notes/notes-section-13.md)
+
 158. Exercise: Customizing Your Theme Header, Part 01
   Blog Course Files.zip
 159. Exercise: Customizing Your Theme Header, Part 02
@@ -201,6 +215,7 @@
 161. Exercise: Customizing Your Footer
 
 # [Section 14 Development - Ecommerce Website with WooCommerce](./notes/notes-section-14.md)
+
 162. Installing WooCommerce
 163. Basic Settings: Getting Started with WooCommerce
 164. Product Settings: Configuring Products in WooCommerce
@@ -221,6 +236,7 @@
 179. Configuring Product Category Navigation in WooCommerce
 
 # [Section 15 Exercises: Build An Ecommerce website with WooCommerce and WordPress](./notes/notes-section-15.md)
+
 180. Exercise: Creating Your Storefront Home Page, Part 01
   eCommerce Course Files.zip
 181. Exercise: Creating Your Storefront Home Page, Part 02
@@ -229,6 +245,7 @@
 184. Exercise: Creating Your Category Landing Page
 
 # [Section 16 Launch and Beyond](./notes/notes-section-16.md)
+
 185. Prepare to Launch! Approval, Testing, Bugs and Beyond
 186. Pre-Launch Checklist: What to Do Before You Launch
 186-Pre-Launch-Checklist.docx

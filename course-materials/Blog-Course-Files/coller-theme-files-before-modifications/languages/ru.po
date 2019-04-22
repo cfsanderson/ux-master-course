@@ -1,0 +1,765 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: coller\n"
+"POT-Creation-Date: 2013-09-21 15:35+0530\n"
+"PO-Revision-Date: 2013-09-21 15:36+0530\n"
+"Last-Translator: ROhit <rohit@rohitink.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Volumes/Macintosh HD/Users/mac/Documents/Developer/"
+"Theme-Development/wp-content/themes/coller\n"
+"X-Poedit-SearchPath-1: /Volumes/Macintosh HD/Users/mac/Documents/Developer/"
+"Theme-Development/wp-content/themes/coller/inc\n"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Это страница не может быть найдена."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "Похоже, ничего не было найдено по этому адресу. Может быть, попробовать одну из ссылок ниже, или поиск?"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:28
+msgid "Most Used Categories"
+msgstr "Наиболее часто используемые категории"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте посмотреть в ежемесячных архивов. %1$s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:48
+msgid "Asides"
+msgstr "Резервы"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:51
+msgid "Images"
+msgstr "Изображения"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:54
+msgid "Videos"
+msgstr "Видео"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:57
+msgid "Quotes"
+msgstr "Кавычки"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:60
+msgid "Links"
+msgstr "Связи"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/archive.php:63
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/sidebar.php:17
+msgid "Archives"
+msgstr "Архив"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:36
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:56
+msgid "Comment navigation"
+msgstr "Комментарий навигации"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:37
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:57
+msgid "&larr; Older Comments"
+msgstr "← Предыдущая Комментарии"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:38
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии →"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-page.php:18
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:24
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:60
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-page.php:23
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:65
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:34
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:78
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:71
+msgid "Edit"
+msgstr "Редактировать"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:33
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:36
+msgid ", "
+msgstr ", "
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:41
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Эта запись была помечена %2$s . Закладка <A HREF = \ " %3$s \ "название = \" Постоянная ссылка на %4$s \ "отн = \" закладки \ "> Постоянная ссылка </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:43
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr "Закладка <A HREF = \ " %3$s \ "название = \" Постоянная ссылка на %4$s \ "отн = \" закладки \ "> Постоянная ссылка </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:49
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Эта запись была опубликована в %1$s и отмеченных %2$s . Закладка <A HREF = \ " %3$s \ "название = \" Постоянная ссылка на %4$s \ "отн = \" закладки \ "> Постоянная ссылка </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content-single.php:51
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Эта запись была опубликована в %1$s . Закладка <A HREF = \ " %3$s \ "название = \" Постоянная ссылка на %4$s \ "отн = \" закладки \ "> Постоянная ссылка </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content.php:15
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content.php:15
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/content.php:15
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/footer.php:32
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/footer.php:34
+#, php-format
+msgid "%1$s Theme by %2$s."
+msgstr "%1$s Тема %2$s ."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:74
+msgid "Primary Menu"
+msgstr "Первичная меню"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:75
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/functions.php:101
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/header.php:57
+msgid "Menu"
+msgstr "Меню"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/header.php:58
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr "Опубликовано <span class=\"entry-date\"> <Время класс = \ "начальная дата \" DateTime = \ " %1$s \ "> %2$s </ времени> </ span> на < HREF = \ " %3$s \ "название = \" Ссылка на полноразмерное изображение \ "> %4$s × % 5 %5$s </ A> в <A HREF = \ " %6$s \ " название = \ "Вернуться на %7$s \ "отн = \" Галерея \ "> %8$s </ A>"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\"> ← </ span> Предыдущая"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующая <span class=\"meta-nav\"> → </ span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post comment\"> Оставить сообщение </ A> или трекбек: <класс = \ "Архив-Link \ "HREF = \" %s \ "название = \" Trackback URL за Ваше сообщение \ "отн = \" Архив \ "> Trackback URL </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr "Комментарии закрыты, но вы можете оставить трекбек: <класс = \ "Архив-Link \" HREF = \ " %s \ "название = \" Trackback URL за Ваше сообщение \ "отн = \" Архив \ "> Trackback URL </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr "Обратные ссылки закрыты, но вы можете <a class=\"comment-link\" href=\"#respond\" title=\"Post comment\"> Написать Комментарий </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Оба замечания и обратные ссылки в настоящее время закрыты."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать ваш первый пост? <A HREF = \ " %1$s \ "> Начните здесь </ A>."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Извините, но ничего не удовлетворяющих вашим условиям поиска. Пожалуйста, попробуйте еще раз с некоторыми другие ключевые слова."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:37
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:41
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:42
+msgid ""
+"Size of Logo should be Exactly 360x125px For Best Results. Leave Blank to "
+"use text Heading."
+msgstr "Размер логотипа должен быть точно 360x125px для лучших результатов. Оставьте пустым, чтобы использовать текст заголовка."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:48
+msgid "Custom Code in Header"
+msgstr "Таможенный кодекс в заголовок"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:49
+msgid ""
+"Insert scripts or code before the closing &lt;/head&gt; tag in the document "
+"source:"
+msgstr "Вставьте скрипты или код перед закрывающим </ HEAD> в документ тег Источник:"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:55
+msgid "Custom Code in Footer"
+msgstr "Таможенный кодекс в Footer"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:56
+msgid ""
+"Insert scripts or code before the closing &lt;/body&gt; tag in the document "
+"source:"
+msgstr "Вставьте скрипты или код перед закрывающим тегом </ BODY> в документ тег Источник:"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:62
+msgid "Copyright Text"
+msgstr "Copyright текста"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:63
+msgid ""
+"Some Text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr "Некоторые текст, касающийся авторских вашего сайта, вы хотите, чтобы отобразить в нижнем колонтитуле."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:69
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:70
+msgid "Some Custom CSS for your site."
+msgstr "Некоторые пользовательские CSS для вашего сайта."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:78
+msgid "Slider Settings"
+msgstr "Ползунка"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:82
+msgid "Enable Slider"
+msgstr "Включить Slider"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:83
+msgid "Check this to Enable Slider."
+msgstr "Проверьте эту возможность Slider."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:89
+msgid "Using the Slider"
+msgstr "С помощью ползунка"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:90
+msgid ""
+"This Slider supports upto 5 Images. To show only 3 Slides in the slider, "
+"upload only 3 images. Leave the rest Blank. For best results, upload images "
+"of width more than 1100px"
+msgstr "Этот слайдер поддерживает до 5 изображений. Чтобы показать только 3 горки в слайдере, загрузить только 3 изображения. Оставьте остальные пустые. Для достижения наилучших результатов, загружать изображения шириной более 1100px"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:94
+msgid "Slider Image 1"
+msgstr "Slider Изображение 1"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:95
+msgid "First Slide"
+msgstr "Первый слайд"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:101
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:120
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:139
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:158
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:177
+msgid "Title"
+msgstr "Название"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:107
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:126
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:145
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:164
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:183
+msgid "Url"
+msgstr "Адрес"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:113
+msgid "Slider Image 2"
+msgstr "Slider Изображение 2"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:114
+msgid "Second Slide"
+msgstr "Второй слайд"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:132
+msgid "Slider Image 3"
+msgstr "Slider Изображение 3"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:133
+msgid "Third Slide"
+msgstr "Третий слайд"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:151
+msgid "Slider Image 4"
+msgstr "Slider Изображение 4"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:152
+msgid "Fourth Slide"
+msgstr "Четвертый слайд"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:170
+msgid "Slider Image 5"
+msgstr "Slider Изображение 5"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:171
+msgid "Fifth Slide"
+msgstr "Пятый слайд"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:191
+msgid "Social Settings"
+msgstr "Социальных условиях"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:195
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:196
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr "Facebook профиль или URL страницы т.е. http://facebook.com/username/ "
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:203
+msgid "Twitter"
+msgstr "Щебет"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:204
+msgid "Twitter Username"
+msgstr "Имя пользователя Twitter"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:211
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:212
+msgid "Google Plus profile url, including \"http://\""
+msgstr "Google Plus адрес профайла, включая \ "http:// \""
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:219
+msgid "Feeburner"
+msgstr "Feeburner"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:220
+msgid "URL for your RSS Feeds"
+msgstr "URL ваших лент новостей"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:227
+msgid "Support"
+msgstr "Поддерживать"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:231
+msgid ""
+"Coller WordPress theme has been Designed and Created by <a href=\"http://"
+"rohitink.com\" target=\"_blank\">Rohit Tripathi</a>. For any Queries or help "
+"related to the theme you can <a href=\"http://rohitink.com/2013/09/11/coller-"
+"wordpress-theme/\" target=\"_blank\">comment on this page</a>. You can also "
+"ask questions about this theme on WordPress.org Support Forums. I will "
+"answer your queries there too."
+msgstr "Коллер WordPress тема была разработана и создана автором <a href=\"http://rohitink.com\" target=\"_blank\"> Рохит Tripathi </ A>. По любым вопросам или помощь, связанную с темой, которую Вы можете <a href=\"http://rohitink.com/2013/09/11/coller-wordpress-theme/\" target=\"_blank\"> комментарий к этой страница </ A>. Вы также можете задавать вопросы на эту тему на форумах WordPress.org поддержки. Я отвечу на ваши запросы и там."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:235
+msgid ""
+"<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on "
+"Twitter</a> to know about my upcoming themes."
+msgstr "<a href=\"http://twitter.com/rohitinked\" target=\"_blank\"> Следуй за мной на Twitter </ A>, чтобы знать о моем предстоящем темы."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:239
+msgid "Theme Credits"
+msgstr "Кредиты тему"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/options.php:240
+msgid ""
+"Check this if you want to you do not want to give us credit in your site "
+"footer."
+msgstr "Проверьте это, если вы хотите, чтобы вы не хотите, чтобы дать нам кредит в страницы сайта."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/sidebar.php:24
+msgid "Meta"
+msgstr "Мета"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:147
+msgid "Coller Theme Options"
+msgstr "Опции Коллер тему"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:148
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:376
+msgid "Coller Settings"
+msgstr "Коллер Настройки"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:192
+msgid "Clear"
+msgstr "Очистить"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:193
+msgid "Default"
+msgstr "Умолчание"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:194
+msgid "Select Color"
+msgstr "Выберите цвет"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:240
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите OK, чтобы сбросить. Любая тема настройки будут утеряны!"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:272
+msgid "Default options restored."
+msgstr "Настройки по умолчанию восстановлены."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-framework.php:326
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "Нет выбранных файлов"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:54
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr "Загружать"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:56
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr "Удаление"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите версию WordPress для полной поддержки средств массовой информации."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr "Просмотр файла"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:239
+msgid "No Repeat"
+msgstr "без повтора"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:240
+msgid "Repeat Horizontally"
+msgstr "Повторяться горизонтально"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:241
+msgid "Repeat Vertically"
+msgstr "Повторите Вертикально"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:242
+msgid "Repeat All"
+msgstr "Повторить все"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:255
+msgid "Top Left"
+msgstr "Вверху слева"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:256
+msgid "Top Center"
+msgstr "Идеальный Центр"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:257
+msgid "Top Right"
+msgstr "Вверху справа"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:258
+msgid "Middle Left"
+msgstr "Средний левый"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:259
+msgid "Middle Center"
+msgstr "Ближний центр"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:260
+msgid "Middle Right"
+msgstr "Посередине Справа"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:261
+msgid "Bottom Left"
+msgstr "Внизу слева"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:262
+msgid "Bottom Center"
+msgstr "Вниз от центра"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:263
+msgid "Bottom Right"
+msgstr "Внизу справа"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:276
+msgid "Scroll Normally"
+msgstr "Выделите Обычно"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:277
+msgid "Fixed in Place"
+msgstr "Установлена ​​на место"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:351
+msgid "Normal"
+msgstr "Нормальный"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:352
+msgid "Italic"
+msgstr "Курсив"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:353
+msgid "Bold"
+msgstr "Смелый"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/options-sanitize.php:354
+msgid "Bold Italic"
+msgstr "Жирный Курсив"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Сообщение навигации"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\"> ← </ span> Старые сообщения"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые сообщения <span class=\"meta-nav\"> → </ span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:81
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:95
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:186
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr "<span class=\"posted-on\"> Опубликовано %1$s </ span> <span class=\"byline\"> на %2$s </ span>"
+
+#: /Volumes/Macintosh
+#: HD/Users/mac/Documents/Developer/Theme-Development/wp-content/themes/coller/inc/template-tags.php:194
+#, php-format
+msgid "View all posts by %s"
+msgstr "Просмотр всех публикаций %s"
+

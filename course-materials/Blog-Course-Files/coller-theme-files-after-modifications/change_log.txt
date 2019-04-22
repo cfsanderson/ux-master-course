@@ -1,0 +1,186 @@
+Version 1.0
+
+	i) Initial Release
+	
+Version 1.0.2
+
+	i) External Links in Theme Options now open in a New Window.	
+	
+Version 1.0.3
+
+	i) Theme now uses Core Bundled iris.
+	ii) License details more clearly stated for certain documents.
+	iii) Readme.md has been removed.
+	v) Sidebar added to 404.php and image.php
+	
+Version 1.0.4
+
+	i) Updated theme desc.	
+	
+Version 1.0.5
+
+	i) Slider now works on Static front pages too.
+	ii) Theme options sanitization fixes.		
+	
+Version 1.0.6
+
+	i) Fixed a Bug with Slider on Firefox.
+	ii) General code refactoring.
+	
+Version 1.0.7
+
+	i) Enabled Autoplay on the Image Slider
+	ii) Added an option to add logo from theme options		
+	
+Version 1.0.8
+
+	i) Changed RSS Icon title
+	ii) Added Theme URI	
+	
+Version 1.0.9
+
+	i) Theme now Supports Translation into any language.
+	ii) Few changes in theme options/bug fixes.	
+	
+Version 1.1
+
+	i) Minor bug fixes.
+	ii) Added Thumbnail Recent Posts Widget
+	
+Version 1.1.1
+
+	i) Fixed a Bug which caused Scheduled post to be displayed in the theme.		
+	
+Version 1.1.2
+
+	i) Added Support for More social networks.
+	ii) Enhanced usage with CHild themes.
+	
+Version 1.1.3
+
+	i) Added Dutch(Manually Translated by a user) Translation.
+	ii) Updated the screenshot to the latest version of the theme. 
+	iii) Other Minor Fixes.		
+	
+Version 1.1.4 
+
+	i) Fixed a Bug which caused, Slider to break when using 4-5 images.
+	ii) Minor Fixes.
+	
+Version 1.1.5.1 
+
+	i) Updated Screenshot to Fully GPL Components.
+	
+Version 1.1.6.0
+
+	i) Added a Full Width Page Template		
+	
+Version 1.1.6.1
+
+	i) Social Media Links Set to open in New Tabs
+	ii) Prefixed Header hook with theme name
+	iii) Cleaned Footer. Removed Attribution to WordPress.	
+	
+Version 1.1.6.2
+
+	i) Added Details about the Pro Version.
+
+Version 1.1.6.3		
+
+	i) Added All strings in theme options under theme text-domain.
+	ii) Added coller.pot
+	
+Version 1.1.6.4
+
+	i) Updated Tags according to WordPress 3.8	
+	
+Version 1.1.7
+
+	i) Updated Theme Tags
+	ii) Fixed Reported Issue with Logo on Smaller Screens	
+	
+Version 1.1.7.1
+
+	i) Updated Translation
+	ii) Removed New Year Coupon Details	
+
+Version 1.1.7.2
+
+	i) Fixed Social Icon issue in child theme
+	ii) Upgraded Screenshot to 880x660px.
+	
+Version 1.1.7.3
+
+	i) Fixed Bug with Custom Widget(Now No of posts can be configured)
+	ii) Resolved Issues with Text Domain	
+	
+Version 1.1.8
+
+	i) Security Fixes.
+	ii) Escaped Slider Links.
+	iii) Removed Header/Footer Scripts Section.	
+
+Version 1.1.8.1
+
+	i) Translation File Updated.
+	ii) Remove Plugin Territory dirname ( FILE ) from functions.php
+	
+Version 1.1.8.2
+
+	i) Added Date to Recent Posts Widget	
+	
+Version 1.1.8.3
+
+	i) Updated Pro Version Price	
+	ii) Updated Missing Strings in the .pot file.
+	
+Version 1.1.8.4
+
+	i) Removed Unnecessary enuqueue function for jQuery	
+	
+Version 1.1.8.5
+
+	i) Added Reset Post Data, to Custom Widget.	
+	
+Version 1.1.8.6
+
+	i) Added Polish Lang File. User Created.	
+	
+Version 1.1.8.7
+
+	i) Japanese Language Updated.
+	ii) pt_BR added. Brazillian Portuguese.	
+	
+Version 1.1.8.8
+
+	i) Change the Way Slider is Rendered	
+	
+Version 1.1.8.9
+
+	i) Relocated for Social Icons.
+	
+Version 1.1.9
+
+	i) Fixed Issues with bxSlider and WP 3.9	
+	
+Version 1.1.9.1
+
+	i) Added Documentation	
+	
+Version 1.2.0
+
+	i) Added Support for Thin Lato Font
+	ii) Fixed Issues with $content_width
+	iii) Updated Theme Description
+	
+Version 1.2.0.1
+
+	i) Updated Translation.
+	ii) Added A New Page Template. Full Width(No Title)	
+	
+Version 1.2.0.2
+
+	i)	Added New Pagination System
+
+	
+	

@@ -1,3 +1,5 @@
+[Back to Course Outline](../course-outline.md)
+
 # Section 5 Architecture: Creating a Solid Foundation
 36. Information Architecture: Organizing Content and Flow
 37. What IS Information Architecture (IA)?
