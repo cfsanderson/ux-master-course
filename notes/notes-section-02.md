@@ -76,8 +76,13 @@ Identify User Needs:
 
 # 10. Exercise: Determining Value & Strategic Opportunity
 
-Images/slides
-
+![screenshot-001](../img/screenshots-001.jpg)
+![screenshot-002](../img/screenshots-002.jpg)
+![screenshot-003](../img/screenshots-003.jpg)
+![screenshot-004](../img/screenshots-004.jpg)
+![screenshot-005](../img/screenshots-005.jpg)
+![screenshot-006](../img/screenshots-006.jpg)
+![screenshot-007](../img/screenshots-007.jpg)
 
 [Back to Course Outline](../course-outline.md)  
 
