@@ -1,1 +1,1 @@
-my course notes from UX design course
+Course notes from UX design master course on Udemy.
