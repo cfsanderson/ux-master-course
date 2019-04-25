@@ -27,9 +27,9 @@
 - [24. Controlling Scope Creep](#24-controlling-scope-creep)
     - [Takeaway:](#takeaway-2)
 - [25. Exercise: Smart Project Scoping](#25-exercise-smart-project-scoping)
+  - [Buy a feature game:](#buy-a-feature-game)
 
-
-
+_____
 # 11. It's Not Just About Users: The UX Value Loop
 
 ![screenshot-007](../img/screenshots-007.jpg)
@@ -212,8 +212,15 @@ When it comes to interacting with clients, partners, or fellow team members: **s
 If you are doing it without the list, **you're guessing**. Write it down.  
 
 # 25. Exercise: Smart Project Scoping
-[GGUX-buy-feature-cards.docx}
+## Buy a feature game:
 
+[GGUX-buy-feature-cards.docx](../course-materials/GGUX-buy-feature-cards.docx)
+
+![screenshot-033](../img/screenshots-033.jpg)
+![screenshot-033](../img/screenshots-033.jpg)
+![screenshot-033](../img/screenshots-033.jpg)
+![screenshot-033](../img/screenshots-033.jpg)
+![screenshot-033](../img/screenshots-033.jpg)
 
 
 
