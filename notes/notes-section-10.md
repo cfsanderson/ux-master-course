@@ -2,7 +2,7 @@
 
 [< Section 9](../notes/notes-section-09.md) | [Section 11 >](../notes/notes-section-11.md)  
 
-# Section 10 Development - Building a B2B Website with HTML & CSS  <!-- omit in toc -->
+# Section 10: Development - Building a B2B Website with HTML & CSS  <!-- omit in toc -->
 
 ### Table of Contents:  
 

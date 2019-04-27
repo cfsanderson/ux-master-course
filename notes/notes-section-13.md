@@ -2,7 +2,7 @@
 
 [< Section 12](../notes/notes-section-12.md) | [Section 14 >](../notes/notes-section-14.md)  
 
-# Section 13 Exercises: Build A Blog with WordPress  <!-- omit in toc -->
+# Section 13: Exercises: Build A Blog with WordPress  <!-- omit in toc -->
 
 ### Table of Contents:  
 

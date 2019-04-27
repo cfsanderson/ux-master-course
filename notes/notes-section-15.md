@@ -2,7 +2,7 @@
 
 [< Section 14](../notes/notes-section-14.md) | [Section 16 >](../notes/notes-section-16.md)  
 
-# Section 15 Exercises: Build An Ecommerce website with WooCommerce and WordPress  <!-- omit in toc -->
+# Section 15: Exercises: Build An Ecommerce website with WooCommerce and WordPress  <!-- omit in toc -->
 
 ### Table of Contents:  
 

@@ -2,7 +2,7 @@
 
 [Section 2 >](../notes/notes-section-02.md)  
 
-# Section 1 - Course Overview  <!-- omit in toc -->
+# Section 1: Course Overview  <!-- omit in toc -->
 
 ### Table of Contents:  
 

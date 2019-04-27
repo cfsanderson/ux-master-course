@@ -2,7 +2,7 @@
 
 [< Section 5](../notes/notes-section-05.md) | [Section 7 >](../notes/notes-section-07.md)  
 
-# Section 6 Architecture: Creating a Solid Foundation Part II <!-- omit in toc -->
+# Section 6: Architecture: Creating a Solid Foundation Part II <!-- omit in toc -->
 
 ### Table of Contents:  
 

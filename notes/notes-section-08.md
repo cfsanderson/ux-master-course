@@ -2,7 +2,7 @@
 
 [< Section 7](../notes/notes-section-07.md) | [Section 9 >](../notes/notes-section-09.md)  
 
-# Section 8 Design: Information, Interaction and Interface  <!-- omit in toc -->
+# Section 8: Design: Information, Interaction and Interface  <!-- omit in toc -->
 
 ### Table of Contents:  
 

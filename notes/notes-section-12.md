@@ -2,7 +2,7 @@
 
 [< Section 11](../notes/notes-section-11.md) | [Section 13 >](../notes/notes-section-13.md)  
 
-# Section 12 Development – WordPress Content Management System (CMS)  <!-- omit in toc -->
+# Section 12: Development – WordPress Content Management System (CMS)  <!-- omit in toc -->
 
 ### Table of Contents:  
 

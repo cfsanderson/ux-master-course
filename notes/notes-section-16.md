@@ -2,7 +2,7 @@
 
 [< Section 15](../notes/notes-section-15.md)  
 
-# Section 16 Launch and Beyond  <!-- omit in toc -->
+# Section 16: Launch and Beyond  <!-- omit in toc -->
 
 ### Table of Contents:  
 

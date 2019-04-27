@@ -2,7 +2,7 @@
 
 [< Section 13](../notes/notes-section-13.md) | [Section 15 >](../notes/notes-section-15.md)  
 
-# Section 14 Development - Ecommerce Website with WooCommerce  <!-- omit in toc -->
+# Section 14: Development - Ecommerce Website with WooCommerce  <!-- omit in toc -->
 
 ### Table of Contents:  
 

@@ -2,7 +2,7 @@
 
 [< Section 2](../notes/notes-section-02.md) | [Section 4 >](../notes/notes-section-04.md)  
 
-# Section 3 - Definition: Planning for Success Part II <!-- omit in toc -->
+# Section 3: Definition: Planning for Success Part II <!-- omit in toc -->
 
 ### Table of Contents:  
 
