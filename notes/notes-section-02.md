@@ -1,8 +1,11 @@
 [Back to Course Outline](../README.md)  
 
+[< Section 1](../notes/notes-section-01.md) | [Section 3 >](../notes/notes-section-03.md)  
+
 # Section 2 - Definition: Planning for Success <!-- omit in toc -->
 
-### Table of Contents:
+### Table of Contents:  
+
 - [4. Why Are We Doing This?](#4-why-are-we-doing-this)
   - [Definition - Planning for Success](#definition---planning-for-success)
 - [5. Three Crucial Questions (You Must Ask)](#5-three-crucial-questions-you-must-ask)

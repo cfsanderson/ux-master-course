@@ -1,8 +1,11 @@
 [Back to Course Outline](../README.md)  
 
+[< Section 2](../notes/notes-section-02.md) | [Section 4 >](../notes/notes-section-04.md)  
+
 # Section 3 - Definition: Planning for Success Part II <!-- omit in toc -->
 
 ### Table of Contents:  
+
 - [11. It's Not Just About Users: The UX Value Loop](#11-its-not-just-about-users-the-ux-value-loop)
 - [12. Business Stakeholder Research](#12-business-stakeholder-research)
 - [13. Identifying Business Goals](#13-identifying-business-goals)

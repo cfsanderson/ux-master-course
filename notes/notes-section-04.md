@@ -1,8 +1,11 @@
 [Back to Course Outline](../README.md)  
 
+[< Section 3](../notes/notes-section-03.md) | [Section 5 >](../notes/notes-section-05.md)  
+
 # Section 4 Definition: Planning for Success Part III <!-- omit in toc -->
 
 ### Table of Contents:  
+
 - [26. Planning for User Testing](#26-planning-for-user-testing)
 - [27. Creating a Test Plan: Who Are We Testing For?](#27-creating-a-test-plan-who-are-we-testing-for)
 - [28. Prioritizing Device and Browser Support](#28-prioritizing-device-and-browser-support)
