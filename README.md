@@ -1,5 +1,6 @@
 These are my course notes for the [UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/learn/v4/content) on Udemy.
 
+
 # [Section 1: Course Overview](./notes/notes-section-01.md)
 
 1. Welcome: Get Ready to Define, Design and Code!
