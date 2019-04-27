@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 10 Development - Building a B2B Website with HTML & CSS
 95. Development: Coding, Customizing and Configuring

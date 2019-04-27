@@ -1,6 +1,8 @@
 [Back to Course Outline](../course-outline.md)
 
-# Section 6 Architecture: Creating a Solid Foundation Part II
+# Section 6 Architecture: Creating a Solid Foundation Part II <!-- omit in toc -->
+
+### Table of Contents:  
 47. Exercise: Turning Information Priority into an IA Model
 48. IA Models: Which One's Right for My Site?
 49. Hierarchical Tree IA Model

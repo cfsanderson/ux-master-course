@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 9 Design: Information, Interaction and Interface Part II
 81. My Tips for Solving Visual Problems

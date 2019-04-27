@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 13 Exercises: Build A Blog with WordPress
 158. Exercise: Customizing Your Theme Header, Part 01

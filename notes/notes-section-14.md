@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 14 Development - Ecommerce Website with WooCommerce
 162. Installing WooCommerce

@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 2 - Definition: Planning for Success <!-- omit in toc -->
 
@@ -97,6 +97,6 @@ Identify User Needs:
 
 [Table of Contents](#Table-of-Contents:)  
 
-[Back to Course Outline](../course-outline.md)  
+[Back to Course Outline](../README.md)  
 
 [< Section 1](../notes/notes-section-01.md) | [Section 3 >](../notes/notes-section-03.md)  

@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 15 Exercises: Build An Ecommerce website with WooCommerce and WordPress
 1.   Exercise: Creating Your Storefront Home Page, Part 01

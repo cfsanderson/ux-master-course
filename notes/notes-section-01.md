@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 1 - Course Overview  <!-- omit in toc -->
 
@@ -39,6 +39,6 @@ What is UX?
 
 [Table of Contents](#Table-of-Contents:)  
 
-[Back to Course Outline](../course-outline.md#)  
+[Back to Course Outline](../README.md)  
 
 [Section 2 >](../notes/notes-section-02.md)  

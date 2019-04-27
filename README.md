@@ -1,12 +1,12 @@
 These are my course notes for the [UX & Web Design Master Course: Strategy, Design, Development](https://www.udemy.com/ux-web-design-master-course-strategy-design-development/learn/v4/content) on Udemy.
 
-# [Section 1 Course Overview](./notes/notes-section-01.md)
+# [Section 1: Course Overview](./notes/notes-section-01.md)
 
 1. Welcome: Get Ready to Define, Design and Code!
 2. Download the BONUS 30-page Course Guidebook
 3. Introduction to UX
 
-# [Section 2 Definition: Planning for Success](./notes/notes-section-02.md)
+# [Section 2: Definition: Planning for Success](./notes/notes-section-02.md)
 
 4. Why Are We Doing This?
 5. Three Crucial Questions (You Must Ask)
@@ -16,7 +16,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 9. SNACK BREAK: Who Are Your Users?
 10. Exercise: Determining Value & Strategic Opportunity
 
-# [Section 3 Definition: Planning for Success Part II](./notes/notes-section-03.md)
+# [Section 3: Definition: Planning for Success Part II](./notes/notes-section-03.md)
 
 11. It's Not Just About Users: The UX Value Loop
 12. Business Stakeholder Research
@@ -35,7 +35,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 25. Exercise: Smart Project Scoping
   GGUX-buy-feature-cards.docx
 
-# [Section 4 Definition: Planning for Success Part III](./notes/notes-section-04.md)
+# [Section 4: Definition: Planning for Success Part III](./notes/notes-section-04.md)
 
 26. Planning for User Testing
 27. Creating a Test Plan: Who Are We Testing For?
@@ -48,7 +48,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 34. What to Test: Security
 35. Definition Takeaways: Things to Remember
 
-# [Section 5 Architecture: Creating a Solid Foundation](./notes/notes-section-05.md)
+# [Section 5: Architecture: Creating a Solid Foundation](./notes/notes-section-05.md)
 
 36. Information Architecture: Organizing Content and Flow
 37. What IS Information Architecture (IA)?
@@ -62,7 +62,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 45. Grouping and Classifying Content
 46. Exercise: Determining Information Priority
 
-# [Section 6 Architecture: Creating a Solid Foundation Part II](./notes/notes-section-06.md)
+# [Section 6: Architecture: Creating a Solid Foundation Part II](./notes/notes-section-06.md)
 
 47. Exercise: Turning Information Priority into an IA Model
 48. IA Models: Which One's Right for My Site?
@@ -76,7 +76,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 56. Socializing and Validating Your IA Model
 57. SNACK BREAK: Create an IA Model for Your Website
 
-# [Section 7 Architecture: Creating a Solid Foundation Part III](./notes/notes-section-07.md)
+# [Section 7: Architecture: Creating a Solid Foundation Part III](./notes/notes-section-07.md)
 
 58. Navigation Design
 59. Primary and Secondary Navigation
@@ -96,7 +96,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
   Wireframe Signoff Template
 72. Architecture Takeaways: Things to Remember
 
-# [Section 8 Design: Information, Interaction and Interface](./notes/notes-section-08.md)
+# [Section 8: Design: Information, Interaction and Interface](./notes/notes-section-08.md)
 
 73. "What's It Gonna Look Like?" An Introduction to Design
 74. Defining Appropriate User Interface (UI) Design
@@ -107,7 +107,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 79. Timeless UI Design Principles, Part 04
 80. SNACK BREAK: Identify Design Principles in an Existing UI
 
-# [Section 9 Design: Information, Interaction and Interface Part II](./notes/notes-section-09.md)
+# [Section 9: Design: Information, Interaction and Interface Part II](./notes/notes-section-09.md)
 
 81. My Tips for Solving Visual Problems
 82. Organizing Visual Information - Part 01
@@ -126,7 +126,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 93. SNACK BREAK: Evaluate Your UI Design
 94. Design Takeaways: Things to Remember
 
-# [Section 10 Development - Building a B2B Website with HTML & CSS](./notes/notes-section-10.md)
+# [Section 10: Development - Building a B2B Website with HTML & CSS](./notes/notes-section-10.md)
 
 95. Development: Coding, Customizing and Configuring
 96. Dreaming in Code: You've Got the Power!
@@ -168,7 +168,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 128. Creating Forms: Grouping Form Data
 129. Styling Forms with CSS: Creating Consistency and Usability
 
-# [Section 11 Exercises: Build A B2B Website with HTML & CSS](./notes/notes-section-11.md)
+# [Section 11: Exercises: Build A B2B Website with HTML & CSS](./notes/notes-section-11.md)
 
 130. Exercise: Create Your B2B Website Header
   Lecture-130-exercise.zip
@@ -180,7 +180,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
   Lecture-133-exercise.zip
 134. Browser Testing: Tips and Tools
 
-# [Section 12 Development – WordPress Content Management System (CMS)](./notes/notes-section-12.md)
+# [Section 12: Development – WordPress Content Management System (CMS)](./notes/notes-section-12.md)
 
 135. Installing WordPress Automatically: Using Your Hosting Provider's CPanel
 136. Installing WordPress Manually: Using an FTP Client
@@ -206,7 +206,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 156. WordPress Backup: Backing Up Your Blog and Database
 157. Updating WordPress: Automatic and Manual Updates
 
-# [Section 13 Exercises: Build A Blog with WordPress](./notes/notes-section-13.md)
+# [Section 13: Exercises: Build A Blog with WordPress](./notes/notes-section-13.md)
 
 158. Exercise: Customizing Your Theme Header, Part 01
   Blog Course Files.zip
@@ -214,7 +214,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 160. Exercise: Customizing Your Page Content
 161. Exercise: Customizing Your Footer
 
-# [Section 14 Development - Ecommerce Website with WooCommerce](./notes/notes-section-14.md)
+# [Section 14: Development - Ecommerce Website with WooCommerce](./notes/notes-section-14.md)
 
 162. Installing WooCommerce
 163. Basic Settings: Getting Started with WooCommerce
@@ -235,7 +235,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 178. Reporting: Sales Reporting in WooCommerce
 179. Configuring Product Category Navigation in WooCommerce
 
-# [Section 15 Exercises: Build An Ecommerce website with WooCommerce and WordPress](./notes/notes-section-15.md)
+# [Section 15: Exercises: Build An Ecommerce website with WooCommerce and WordPress](./notes/notes-section-15.md)
 
 180. Exercise: Creating Your Storefront Home Page, Part 01
   eCommerce Course Files.zip
@@ -244,7 +244,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 183. Exercise: Creating Your Storefront Home Page, Part 04
 184. Exercise: Creating Your Category Landing Page
 
-# [Section 16 Launch and Beyond](./notes/notes-section-16.md)
+# [Section 16: Launch and Beyond](./notes/notes-section-16.md)
 
 185. Prepare to Launch! Approval, Testing, Bugs and Beyond
 186. Pre-Launch Checklist: What to Do Before You Launch

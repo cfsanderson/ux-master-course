@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 12 Development – WordPress Content Management System (CMS)
 135. Installing WordPress Automatically: Using Your Hosting Provider's CPanel

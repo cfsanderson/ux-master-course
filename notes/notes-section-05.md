@@ -1,19 +1,20 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
-# Section 5 Architecture: Creating a Solid Foundation
+# Section 5 Architecture: Creating a Solid Foundation <!-- omit in toc -->
 
-- [Section 5 Architecture: Creating a Solid Foundation](#section-5-architecture-creating-a-solid-foundation)
-  - [36. Information Architecture: Organizing Content and Flow](#36-information-architecture-organizing-content-and-flow)
-  - [37. What IS Information Architecture (IA)?](#37-what-is-information-architecture-ia)
-  - [38. Content Strategy: Identifying, Organizing and Delivering](#38-content-strategy-identifying-organizing-and-delivering)
-  - [39. Determining Content Requirements](#39-determining-content-requirements)
-  - [40. Exercise: Identifying Content Workflows](#40-exercise-identifying-content-workflows)
-  - [41. My Tips for Successful Information IA Modeling](#41-my-tips-for-successful-information-ia-modeling)
-  - [42. Creating and Prioritizing IA](#42-creating-and-prioritizing-ia)
-  - [43. Content Labeling](#43-content-labeling)
-  - [44. File Naming](#44-file-naming)
-  - [45. Grouping and Classifying Content](#45-grouping-and-classifying-content)
-  - [46. Exercise: Determining Information Priority](#46-exercise-determining-information-priority)
+### Table of Contents:  
+
+- [36. Information Architecture: Organizing Content and Flow](#36-information-architecture-organizing-content-and-flow)
+- [37. What IS Information Architecture (IA)?](#37-what-is-information-architecture-ia)
+- [38. Content Strategy: Identifying, Organizing and Delivering](#38-content-strategy-identifying-organizing-and-delivering)
+- [39. Determining Content Requirements](#39-determining-content-requirements)
+- [40. Exercise: Identifying Content Workflows](#40-exercise-identifying-content-workflows)
+- [41. My Tips for Successful Information IA Modeling](#41-my-tips-for-successful-information-ia-modeling)
+- [42. Creating and Prioritizing IA](#42-creating-and-prioritizing-ia)
+- [43. Content Labeling](#43-content-labeling)
+- [44. File Naming](#44-file-naming)
+- [45. Grouping and Classifying Content](#45-grouping-and-classifying-content)
+- [46. Exercise: Determining Information Priority](#46-exercise-determining-information-priority)
 
 ## 36. Information Architecture: Organizing Content and Flow
 4 Components (Rosenfeld and Morville)

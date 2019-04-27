@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 3 - Definition: Planning for Success Part II <!-- omit in toc -->
 
@@ -253,6 +253,6 @@ If you are doing it without the list, **you're guessing**. Write it down.
 
 [Table of Contents](#Table-of-Contents:)  
 
-[Back to Course Outline](../course-outline.md)  
+[Back to Course Outline](../README.md)  
 
 [< Section 2](../notes/notes-section-02.md) | [Section 4 >](../notes/notes-section-04.md)  

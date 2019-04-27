@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 8 Design: Information, Interaction and Interface
 73. "What's It Gonna Look Like?" An Introduction to Design

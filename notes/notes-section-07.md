@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 7 Architecture: Creating a Solid Foundation Part III
 58. Navigation Design

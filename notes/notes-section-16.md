@@ -1,4 +1,4 @@
-[Back to Course Outline](../course-outline.md)
+[Back to Course Outline](../README.md)  
 
 # Section 16 Launch and Beyond
 1.   Prepare to Launch! Approval, Testing, Bugs and Beyond
