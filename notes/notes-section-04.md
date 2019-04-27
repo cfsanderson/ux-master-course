@@ -121,7 +121,8 @@ Check out sites such as:
   - if not, what prevented them from succeeding?
   - what's the consequence of each task failure - lost customers, increased support costs, inaccurate data captured?
 
-# 31. What to Test: Errors and Exceptions (3/6)
+# 31. What to Test: Errors and Exceptions (3/6)  
+
 
 # 32. What to Test: Compatibility (4/6)
 
