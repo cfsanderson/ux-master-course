@@ -123,15 +123,17 @@ Check out sites such as:
 
 # 31. What to Test: Errors and Exceptions (3/6)  
 
+bookmark pic  
 
-# 32. What to Test: Compatibility (4/6)
+# 32. What to Test: Compatibility (4/6)  
 
-- browser compatibility
+Compatibility covers what happens when the site is used across different devices, browsers, platforms, along with specific use scenarios like mobile borwsing or printing. The big two are **browser compatibility** and **OS/device compatibility**.  
+
+- Browser compatibility
   - display consistently in diff browsers?
   - same browser but different OSs?
   - all functionality?
 - OS functionality
-
 
 # 33. What to Test: Performance (5/6)
 
