@@ -1,8 +1,8 @@
 [Back to Course Outline](../course-outline.md)
 
-# Section 3 Definition: Planning for Success Part II
+# Section 3 - Definition: Planning for Success Part II <!-- omit in toc -->
 
-- [Section 3 Definition: Planning for Success Part II](#section-3-definition-planning-for-success-part-ii)
+### Table of Contents:  
 - [11. It's Not Just About Users: The UX Value Loop](#11-its-not-just-about-users-the-ux-value-loop)
 - [12. Business Stakeholder Research](#12-business-stakeholder-research)
 - [13. Identifying Business Goals](#13-identifying-business-goals)
@@ -34,7 +34,10 @@ _____
 
 ![screenshot-007](../img/screenshots-007.jpg)
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 12. Business Stakeholder Research
+
 Clients are people too!  
 
 - Business objectives - making or saving $$$
@@ -43,6 +46,8 @@ Clients are people too!
 - Who is their *competition*?
 
 ![screenshot-008](../img/screenshots-008.jpg)
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 13. Identifying Business Goals
 
@@ -56,11 +61,17 @@ Clients are people too!
 ![screenshot-016](../img/screenshots-016.jpg)
 ![screenshot-017](../img/screenshots-017.jpg)
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 14. SNACK BREAK: What Are Your (or Your Client's) Business Goals?
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 15. User Research: Putting People First
 
 ![screenshot-018](../img/screenshots-018.jpg)
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 16. Identifying User Needs
 
@@ -103,6 +114,8 @@ Patience is extremely important here; let the silence following the question do 
 - "what other things do you do before, during, or after you use the site?"
 - "is there a site that does something similar that you know of?"  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 17. Decision Paths: Connecting User Needs with Strategy
 
 ## Decision Paths:
@@ -122,6 +135,8 @@ Patience is extremely important here; let the silence following the question do 
 The most important principle of good UI/UX is **progressive disclosure**.  
 Information presented to someone who isn't _interested_ in it - or isn't ready to _process_ it - is **noise**.  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 18. Exercise: Create a Decision Path
 
 |Purpose   |Context   |Convince |Convert   |
@@ -136,6 +151,8 @@ Information presented to someone who isn't _interested_ in it - or isn't ready t
 
 _*How much info needs to be displayed on the screen at any one time to keep going or take the desired action to convert?*_
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 19. Introduction to Requirements
 
 **GENERATING** Requirements  
@@ -146,6 +163,8 @@ What needs to be designed/built?
 - Functionality/content/data
 - Questions, not _solutions_
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 20. Generating Meaningful Requirements
 ## Form, Function, and Features
 
@@ -153,6 +172,8 @@ Generate requirements - Don't take orders
 
 ![screenshot-022](../img/screenshots-022.jpg)
 ![screenshot-023](../img/screenshots-023.jpg)
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 21. Three Kinds of Requirements
 
@@ -165,6 +186,8 @@ Generate requirements - Don't take orders
 ![screenshot-026](../img/screenshots-026.jpg)
 ![screenshot-027](../img/screenshots-027.jpg)
 ![screenshot-028](../img/screenshots-028.jpg)
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 22. Documenting Requirements
 
@@ -193,11 +216,15 @@ Shared documentation also give you a common way to label and describe things in 
 ### Takeaway:
 Documentation eliminates excuses and surprises === makes life good.
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 23. Determining Project Scope
 
 ### Takeaway:
 
 When it comes to interacting with clients, partners, or fellow team members: **silence equals agreement.**.
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 24. Controlling Scope Creep
 
@@ -211,6 +238,8 @@ When it comes to interacting with clients, partners, or fellow team members: **s
 ### Takeaway:
 If you are doing it without the list, **you're guessing**. Write it down.  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 25. Exercise: Smart Project Scoping
 ## Buy a feature game:
 
@@ -222,9 +251,7 @@ If you are doing it without the list, **you're guessing**. Write it down.
 ![screenshot-033](../img/screenshots-033.jpg)
 ![screenshot-033](../img/screenshots-033.jpg)
 
-
-
-
+[Table of Contents](#Table-of-Contents:)  
 
 [Back to Course Outline](../course-outline.md)  
 

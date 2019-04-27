@@ -1,6 +1,8 @@
 [Back to Course Outline](../course-outline.md)
 
-**Table of Contents:**
+# Section 2 - Definition: Planning for Success <!-- omit in toc -->
+
+### Table of Contents:
 - [4. Why Are We Doing This?](#4-why-are-we-doing-this)
   - [Definition - Planning for Success](#definition---planning-for-success)
 - [5. Three Crucial Questions (You Must Ask)](#5-three-crucial-questions-you-must-ask)
@@ -10,8 +12,6 @@
   - [Takeaways](#takeaways)
 - [9. SNACK BREAK: Who Are Your Users?](#9-snack-break-who-are-your-users)
 - [10. Exercise: Determining Value & Strategic Opportunity](#10-exercise-determining-value--strategic-opportunity)
-
-# Section 2 - Definition: Planning for Success <!-- omit in toc -->
 
 # 4. Why Are We Doing This?
 
@@ -23,6 +23,8 @@
 - How will we measure success?
 - What can we realistically do?
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 5. Three Crucial Questions (You Must Ask)
 
 Websites are strategic. Have to know 3 things:
@@ -30,6 +32,8 @@ Websites are strategic. Have to know 3 things:
 1. What worth doing?
 2. What are we creating?
 3. What value does it provide?
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 6. What's Worth Doing?
 
@@ -39,6 +43,7 @@ Tradeoffs between **importance** and **feasibility** and **viability**
 
 ![](../img/)
 
+[Table of Contents](#Table-of-Contents:)  
 
 # 7. What Are We Creating?
 
@@ -55,6 +60,8 @@ Doesnt' have to be formal, just do it and make it available.
 - platform, 
 - content
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 8. What Value Does It Provide?
 
 - Who is our target audience?
@@ -67,12 +74,16 @@ Doesnt' have to be formal, just do it and make it available.
 2. What are we creating?
 3. What value does it provide?
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 9. SNACK BREAK: Who Are Your Users?
 
 Identify User Needs:  
 - Who are your users?
 - What do they expect?
 - Why do those things matter to them?
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 10. Exercise: Determining Value & Strategic Opportunity
 
@@ -83,6 +94,8 @@ Identify User Needs:
 ![screenshot-005](../img/screenshots-005.jpg)
 ![screenshot-006](../img/screenshots-006.jpg)
 ![screenshot-007](../img/screenshots-007.jpg)
+
+[Table of Contents](#Table-of-Contents:)  
 
 [Back to Course Outline](../course-outline.md)  
 
