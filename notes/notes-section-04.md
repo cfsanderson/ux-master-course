@@ -129,6 +129,9 @@ bookmark pic
 
 Compatibility covers what happens when the site is used across different devices, browsers, platforms, along with specific use scenarios like mobile borwsing or printing. The big two are **browser compatibility** and **OS/device compatibility**.  
 
+[pic a]()
+[pic v]()
+
 - Browser compatibility
   - display consistently in diff browsers?
   - same browser but different OSs?
@@ -137,19 +140,44 @@ Compatibility covers what happens when the site is used across different devices
 
 # 33. What to Test: Performance (5/6)
 
+[pic]()
+
 - measures how well the website can accomodate heavy traffic
   - load testing
   - stress testing
 
 # 34. What to Test: Security (6/6)
 
+[pic]()
+[pic]()
+
 # 35. Definition Takeaways: Things to Remember
 
-**Key Takeaways:**  
-Need to know three things up front  
+Need to know three things up front:  
 - what's worth doing?
 - what are we creating?
 - what value does it provide?
+
+If you ever hear ***"we have no competition"*** that is your cue to exit.
+
+
+The most important principle of good user interface design a good user experience is ***progressive disclosure***.
+Information that's presented to someone who isn't interested in or isn't ready to process it is noise.
+
+3 kinds of requirements:  
+
+- things people say they need
+- things people actually need
+- things people didn't know they need  
+
+When you need to get requirements quickly you scenarios are your best friend in the world.  
+
+Documentation eliminates excuses and surprises that makes life good.  
+
+When interacting with clients or partners or fellow team members remember this ***silence equals agreement***.
+
+If you're doing it without the list, ***your guessing***. Write it down.  
+Be realistic about what matters most when it comes to testing because you can not test everything.  
 
 
 [Table of Contents](#Table-of-Contents:)  
