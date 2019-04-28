@@ -93,7 +93,7 @@ Are there form factor restrictions?
    - Ask them what's working and what isn't.  
    - Ask them which people - in what roles - are involved in content creatiion, editing, and approval.  
 
-![](../img/identifying-content-workflows_01.png)  
+![screenshot-045](../img/screenshots-045.jpg)  
 
 2) Define tasks and activities
    - Adding text, photos, video, Twitter feeds, forms, etc.
@@ -106,7 +106,7 @@ Are there form factor restrictions?
    - Formatting headers, tables, captions, links, etc.
 
 3) Diagram the process  
-![](../img/identifying-content-workflows_02.png)  
+![screenshot-046](../img/screenshots-046.jpg)  
 
 4) Ask questions as you diagram  
   - Can authors creat new pages or just edit existing ones?
