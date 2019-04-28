@@ -7,6 +7,7 @@
 ### Table of Contents:  
 
 - [36. Information Architecture: Organizing Content and Flow](#36-information-architecture-organizing-content-and-flow)
+  - [4 Components (Rosenfeld and Morville)](#4-components-rosenfeld-and-morville)
 - [37. What IS Information Architecture (IA)?](#37-what-is-information-architecture-ia)
 - [38. Content Strategy: Identifying, Organizing and Delivering](#38-content-strategy-identifying-organizing-and-delivering)
 - [39. Determining Content Requirements](#39-determining-content-requirements)
@@ -19,11 +20,13 @@
 - [46. Exercise: Determining Information Priority](#46-exercise-determining-information-priority)
 
 ## 36. Information Architecture: Organizing Content and Flow
-4 Components (Rosenfeld and Morville)
-1) Organizational structure
-2) Labeling systems
-3) Navigation systems
-4) Search systems  
+
+### 4 Components (Rosenfeld and Morville)
+
+1) ***Organizational*** structure
+2) ***Labeling*** systems
+3) ***Navigation*** systems
+4) ***Search*** systems  
 
 ## 37. What IS Information Architecture (IA)?
 IA means consciously organizing the content and flow of a website, app or system.  
@@ -38,10 +41,11 @@ IA then, is based on:
 - how they expect to be able to view, enter, download,, manipulate, or interact with it
 
 [The Polar Bear Book by Rosenfeld and Morville](https://www.amazon.com/dp/1491911689/ref=cm_sw_em_r_mt_dp_U_4VWpCb4R4SJBD)
-1) Organizational structure
-2) Labeling systems
-3) Navigation systems
-4) Search systems
+1) ***Organizational*** structure
+2) ***Labeling*** systems
+3) ***Navigation*** systems
+4) ***Search*** systems  
+
 
 IA isn't just relegated to websites. Think about grocery stores or Target
 
