@@ -123,33 +123,23 @@ Check out sites such as:
 
 # 31. What to Test: Errors and Exceptions (3/6)  
 
-bookmark pic  
+![screenshot-039](../img/screenshots-039.jpg)
 
 # 32. What to Test: Compatibility (4/6)  
 
 Compatibility covers what happens when the site is used across different devices, browsers, platforms, along with specific use scenarios like mobile borwsing or printing. The big two are **browser compatibility** and **OS/device compatibility**.  
 
-[pic a]()
-[pic v]()
-
-- Browser compatibility
-  - display consistently in diff browsers?
-  - same browser but different OSs?
-  - all functionality?
-- OS functionality
+![screenshot-040](../img/screenshots-040.jpg)
+![screenshot-041](../img/screenshots-041.jpg)
 
 # 33. What to Test: Performance (5/6)
 
-[pic]()
-
-- measures how well the website can accomodate heavy traffic
-  - load testing
-  - stress testing
+![screenshot-042](../img/screenshots-042.jpg)
 
 # 34. What to Test: Security (6/6)
 
-[pic]()
-[pic]()
+![screenshot-043](../img/screenshots-043.jpg)
+![screenshot-044](../img/screenshots-044.jpg)
 
 # 35. Definition Takeaways: Things to Remember
 
