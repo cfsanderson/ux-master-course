@@ -109,7 +109,7 @@ Content should always be strategically leveraged to serve a goal.
 
 Diagram what you learn about their **roles**, **tasks**, and **relationships**  
 
-![](../img/identifying-content-workflows_01.png)  
+![screenshot-045](../img/screenshots-045.jpg)  
 
 **2) Define tasks and activities**
 - Adding text, photos, video, Twitter feeds, forms, etc.
@@ -122,7 +122,8 @@ Diagram what you learn about their **roles**, **tasks**, and **relationships**
 - Formatting headers, tables, captions, links, etc.
 
 **3) Diagram the process**
-![](../img/identifying-content-workflows_02.png)  
+
+![screenshot-046](../img/screenshots-046.jpg)  
 
 **4) Ask questions as you diagram**
 - Can authors creat new pages or just edit existing ones?
