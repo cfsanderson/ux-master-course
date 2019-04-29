@@ -16,6 +16,10 @@
   - [Questions to ask:](#questions-to-ask)
 - [40. Exercise: Identifying Content Workflows](#40-exercise-identifying-content-workflows)
 - [41. My Tips for Successful Information IA Modeling](#41-my-tips-for-successful-information-ia-modeling)
+  - [Identify content and socialize IA early.](#identify-content-and-socialize-ia-early)
+  - [Start with context of use](#start-with-context-of-use)
+  - [5 States that affect context](#5-states-that-affect-context)
+  - [IA must be user-centered](#ia-must-be-user-centered)
 - [42. Creating and Prioritizing IA](#42-creating-and-prioritizing-ia)
 - [43. Content Labeling](#43-content-labeling)
 - [44. File Naming](#44-file-naming)
@@ -136,6 +140,50 @@ Diagram what you learn about their **roles**, **tasks**, and **relationships**
 - Are content managers involved in the work flow process? Are they informed about publishing updates? Are they repsonsible for dcoumenting changes in the system somewhere?
 
 # 41. My Tips for Successful Information IA Modeling
+![screenshot-047](../img/screenshots-047.jpg)  
+
+## Identify content and socialize IA early.
+Every idea sounds great when **somebody else** is repsonsible for creating it.
+
+## Start with context of use
+The external factors that influence how people interact with your content, navigation and information structures.
+
+## 5 States that affect context  
+1) Physical
+   - are they using a mobile device?
+   - are they holdin it with both hands or one hand?
+   - is that hand the left or right?
+   - are they physically able to stay in one place and consume content?
+   - are they performing other tasks at the same time?
+2) Environmental
+   - what's the room they're in like?
+   - is it noisy? loud? crowded?
+   - does someone interrupt them every 5 minutes while they're working?
+   - are they curled up on the couch with a tablet?
+   - are they viewing content on their phone as they're walking down the street?
+3) Preferential
+   - how do they prefer to access the content?
+   - on what device - phone, laptop, desktop, or tablet?
+   - do they prefer video or audio content instead of reading text onscreen?
+   - are there learning disabilities or physical diabilities that should be considered?
+4) Emotional
+   - how is the person feeling? what's their stress level
+   - what is motivating their activity?, their use of the website?
+   - what do they want from you?
+   - what can't they live without?
+   - if they feel like they don't get what they need from you, is there consequence?
+5) Cognitive
+   - what ssumptions will they make based on what they read and interact with?
+   - what's their ability to learn? does it take multiple tries or reads to understand?
+   - is it suitable for all education or skill levels?
+   - are we talking to a very narrow, well-defined group of people? or is this a mass market product with varying degrees of literacy, education, or ability?
+
+## IA must be user-centered
+it's purpose, stategy, form, and function should all revolve around user expectation.
+
+![screenshot-048](../img/screenshots-048.jpg)  
+![screenshot-049](../img/screenshots-049.jpg)  
+
 
 # 42. Creating and Prioritizing IA
 
