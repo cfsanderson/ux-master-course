@@ -21,9 +21,13 @@
   - [5 States that affect context](#5-states-that-affect-context)
   - [IA must be user-centered](#ia-must-be-user-centered)
 - [42. Creating and Prioritizing IA](#42-creating-and-prioritizing-ia)
+  - [Categories and labeling](#categories-and-labeling)
 - [43. Content Labeling](#43-content-labeling)
+  - [Good labeling](#good-labeling)
+  - [Choosing useful labels](#choosing-useful-labels)
 - [44. File Naming](#44-file-naming)
 - [45. Grouping and Classifying Content](#45-grouping-and-classifying-content)
+  - [Most commoon content classification methods - and how to use them.](#most-commoon-content-classification-methods---and-how-to-use-them)
 - [46. Exercise: Determining Information Priority](#46-exercise-determining-information-priority)
 
 # 36. Information Architecture: Organizing Content and Flow
@@ -184,16 +188,76 @@ it's purpose, stategy, form, and function should all revolve around user expecta
 ![screenshot-048](../img/screenshots-048.jpg)  
 ![screenshot-049](../img/screenshots-049.jpg)  
 
-
 # 42. Creating and Prioritizing IA
+
+## Categories and labeling
+
+Need to address 2 things:
+1) **Content** labeling and taxonomy
+2) **File** (HTML) naming and taxonomy
 
 # 43. Content Labeling
 
+## Good labeling  
+
+Visitors have a **pre-existing mental model** of how the site works, how content is organized and what things will be called.  
+
+Good labeling helps people quickly and accurately **predict** what they''ll get *before* the click or tap.  
+
+The more **descriptive** the label, and the closer it is to what the **user would call it**, the higher the chance they'll interact with it.  
+
+On every screen, the user has to review and compare what's available to them and decide which one is the **right one**. That procss often happens in seconds, but it can be exhausting.  
+
+Being wrong causes both **fatigue** and **frustration**, which causes people to leave the site and look for one that's more clearly labeled.  
+
+Clients will often default to **industry terminology**, acronyms and jargon, because it's second nature to them.  
+
+It's your job to guide your client - by asking some very simple questions about category, subcategory, link, and call-to-action labeling:
+
+- "Is that what your customers would call it?"
+- "What catgory would users expect to find that in?"
+- "What's the action they're actually taking when they click this button?" 
+
+## Choosing useful labels  
+
+- **Choose clear, descriptive words and phrases.** Strive for simplicity, accuracy, and clarity.  
+- **Don't make up words or terms.** Don't be clever; stick to commonly used terms.  
+- **Don't overlap categories.** Category labels should be distinct and descriptive.  
+- **Make sure your organizational scheme makes sense to users.** No model numbers.  
+- **Don't rely on your own opionions.** Test!  
+
 # 44. File Naming
+
+Consistency between your IA and your file structure give you and/or your team a **map** for where everything goes and what it's called.  
+
+File and directory naming should follow the **same scheme** you've set for category naming.  
+
+Your scheme should be equally as **obvious**, and it should line up directly with the IA in terms of categories, subcategories, and labels. 
+
+**File names should match IA Category labels.**  
+this give everyone a shared understanding of where content lives and what it's called.  
+
+![screenshot-050](../img/screenshots-050.jpg)  
+![screenshot-051](../img/screenshots-051.jpg)  
+![screenshot-052](../img/screenshots-052.jpg)  
 
 # 45. Grouping and Classifying Content
 
+## Most commoon content classification methods - and how to use them.  
+
+- Chronological
+- Alphabetical
+- Geographical
+- Most Popular
+- Process Order
+
+![screenshot-053](../img/screenshots-053.jpg)  
+
 # 46. Exercise: Determining Information Priority
+
+After asking client and actual users separately what was most important...
+
+![screenshot-054](../img/screenshots-054.jpg)  
 
 [Back to Course Outline](../README.md)  
 
