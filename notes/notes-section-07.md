@@ -6,53 +6,116 @@
 
 ### Table of Contents:  
 
-- [73. Navigation Design](#73-navigation-design)
-- [74. Primary and Secondary Navigation](#74-primary-and-secondary-navigation)
-- [75. Global and Local Navigation](#75-global-and-local-navigation)
-- [76. Navigation for Different User Types](#76-navigation-for-different-user-types)
-- [77. Validating Your Navigation Scheme](#77-validating-your-navigation-scheme)
-- [78. Exercise: Determining Key Navigation Paths](#78-exercise-determining-key-navigation-paths)
-- [79. Wireframing 101](#79-wireframing-101)
-- [80. What a Wireframe ISN'T](#80-what-a-wireframe-isnt)
-- [81. What a Wireframe IS](#81-what-a-wireframe-is)
-- [82. My Tips for Creating Successful Wireframe Prototypes](#82-my-tips-for-creating-successful-wireframe-prototypes)
-- [83. Creating Wireframes: Tools of the Trade](#83-creating-wireframes-tools-of-the-trade)
-- [84. SNACK BREAK: Try Creating a Basic Wireframe on Your Own](#84-snack-break-try-creating-a-basic-wireframe-on-your-own)
-- [85. Exercise: Creating a B2B Wireframe with Axure RP Pro](#85-exercise-creating-a-b2b-wireframe-with-axure-rp-pro)
-- [86. Socializing and Validating Wireframes](#86-socializing-and-validating-wireframes)
+- [58. Navigation Design](#58-navigation-design)
+- [59. Primary and Secondary Navigation](#59-primary-and-secondary-navigation)
+- [60. Global and Local Navigation](#60-global-and-local-navigation)
+  - [Global navigation](#global-navigation)
+  - [Local navigation](#local-navigation)
+- [61. Navigation for Different User Types](#61-navigation-for-different-user-types)
+- [62. Validating Your Navigation Scheme](#62-validating-your-navigation-scheme)
+- [63. Exercise: Determining Key Navigation Paths](#63-exercise-determining-key-navigation-paths)
+- [64. Wireframing 101](#64-wireframing-101)
+- [65. What a Wireframe ISN'T](#65-what-a-wireframe-isnt)
+- [66. What a Wireframe IS](#66-what-a-wireframe-is)
+- [67. My Tips for Creating Successful Wireframe Prototypes](#67-my-tips-for-creating-successful-wireframe-prototypes)
+- [68. Creating Wireframes: Tools of the Trade](#68-creating-wireframes-tools-of-the-trade)
+- [69. SNACK BREAK: Try Creating a Basic Wireframe on Your Own](#69-snack-break-try-creating-a-basic-wireframe-on-your-own)
+- [70. Exercise: Creating a B2B Wireframe with Axure RP Pro](#70-exercise-creating-a-b2b-wireframe-with-axure-rp-pro)
+- [71. Socializing and Validating Wireframes](#71-socializing-and-validating-wireframes)
 - [72. Architecture Takeaways: Things to Remember](#72-architecture-takeaways-things-to-remember)
 
+# 58. Navigation Design  
 
-# 73. Navigation Design  
+Introduction: Getting from here to there and back again
 
-# 74. Primary and Secondary Navigation  
+[TOC](#Table-of-Contents)  
 
-# 75. Global and Local Navigation  
+# 59. Primary and Secondary Navigation  
 
-# 76. Navigation for Different User Types  
+![screenshot-072](../img/screenshots-072.jpg)  
+![screenshot-073](../img/screenshots-073.jpg)  
 
-# 77. Validating Your Navigation Scheme  
+[TOC](#Table-of-Contents)  
 
-# 78. Exercise: Determining Key Navigation Paths  
+# 60. Global and Local Navigation  
 
-# 79. Wireframing 101  
+## Global navigation
+![screenshot-074](../img/screenshots-074.jpg)  
 
-# 80. What a Wireframe ISN'T  
+## Local navigation
+![screenshot-075](../img/screenshots-075.jpg)  
 
-# 81. What a Wireframe IS  
+[TOC](#Table-of-Contents)  
 
-# 82. My Tips for Creating Successful Wireframe Prototypes  
+# 61. Navigation for Different User Types  
 
-# 83. Creating Wireframes: Tools of the Trade  
+Logged out  
 
-# 84. SNACK BREAK: Try Creating a Basic Wireframe on Your Own  
+![screenshot-076](../img/screenshots-076.jpg)  
 
-# 85. Exercise: Creating a B2B Wireframe with Axure RP Pro  
+Logged in  
 
-# 86. Socializing and Validating Wireframes  
+![screenshot-077](../img/screenshots-077.jpg)  
+
+![screenshot-078](../img/screenshots-078.jpg)  
+
+- know how many user levels exist
+- design and plan for each level separately
+- detail content differences for users
+- focus on context of use
+
+[TOC](#Table-of-Contents)  
+
+# 62. Validating Your Navigation Scheme  
+
+
+[TOC](#Table-of-Contents)  
+
+# 63. Exercise: Determining Key Navigation Paths  
+
+
+[TOC](#Table-of-Contents)  
+
+# 64. Wireframing 101  
+
+
+[TOC](#Table-of-Contents)  
+
+# 65. What a Wireframe ISN'T  
+
+
+[TOC](#Table-of-Contents)  
+
+# 66. What a Wireframe IS  
+
+
+[TOC](#Table-of-Contents)  
+
+# 67. My Tips for Creating Successful Wireframe Prototypes  
+
+
+[TOC](#Table-of-Contents)  
+
+# 68. Creating Wireframes: Tools of the Trade  
+
+
+[TOC](#Table-of-Contents)  
+
+# 69. SNACK BREAK: Try Creating a Basic Wireframe on Your Own  
+
+
+[TOC](#Table-of-Contents)  
+
+# 70. Exercise: Creating a B2B Wireframe with Axure RP Pro  
+
+
+[TOC](#Table-of-Contents)  
+
+# 71. Socializing and Validating Wireframes  
 
 - [Wireframe Presentation Script]()
 - [Wireframe Signoff Template]()
+
 # 72. Architecture Takeaways: Things to Remember  
 
 [Table of Contents](#Table-of-Contents:)  

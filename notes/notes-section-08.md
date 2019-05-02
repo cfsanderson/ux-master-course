@@ -17,17 +17,31 @@
 
 # 73. "What's It Gonna Look Like?" An Introduction to Design  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 74. Defining Appropriate User Interface (UI) Design  
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 75. How Definition and IA Inform UI Design  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 76. Timeless UI Design Principles, Part 01  
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 77. Timeless UI Design Principles, Part 02  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 78. Timeless UI Design Principles, Part 03  
 
+[Table of Contents](#Table-of-Contents:)  
+
 # 79. Timeless UI Design Principles, Part 04  
+
+[Table of Contents](#Table-of-Contents:)  
 
 # 80. SNACK BREAK: Identify Design Principles in an Existing UI  
 
