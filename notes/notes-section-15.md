@@ -15,15 +15,23 @@
 # 1. Exercise: Creating Your Storefront Home Page, Part 01  
   eCommerce Course Files.zip
 
+[TOC](#Table-of-Contents)  
+
 # 2. Exercise: Creating Your Storefront Home Page, Part 02  
+
+[TOC](#Table-of-Contents)  
 
 # 3. Exercise: Creating Your Storefront Home Page, Part 03  
 
+[TOC](#Table-of-Contents)  
+
 # 4. Exercise: Creating Your Storefront Home Page, Part 04  
+
+[TOC](#Table-of-Contents)  
 
 # 5. Exercise: Creating Your Category Landing Page  
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

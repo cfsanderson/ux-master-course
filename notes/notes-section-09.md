@@ -23,36 +23,62 @@
 
 # 81. My Tips for Solving Visual Problems  
 
+[TOC](#Table-of-Contents)  
+
 # 82. Organizing Visual Information - Part 01  
+
+[TOC](#Table-of-Contents)  
 
 # 83. Organizing Visual Information - Part 02  
 
+[TOC](#Table-of-Contents)  
+
 # 84. Designing Appropriate Visual Hierarchy  
+
+[TOC](#Table-of-Contents)  
 
 # 85. Designing for Audience Expectation  
 
+[TOC](#Table-of-Contents)  
+
 # 86. Designing for Interaction  
+
+[TOC](#Table-of-Contents)  
 
 # 87. Exercise: Create a UI Design for a B2B Website  
 
+[TOC](#Table-of-Contents)  
+
 # 88. Exercise: Create a UI Design Layout for a WordPress Blog - Part 01  
+
+[TOC](#Table-of-Contents)  
 
 # 89. Exercise: Create a UI Design Layout for a WordPress Blog - Part 02  
 
+[TOC](#Table-of-Contents)  
+
 # 90. Exercise: Create a UI Design Layout for a WordPress Blog - Part 03  
 
+[TOC](#Table-of-Contents)  
+
 # 91. Exercise: Create a UI Design Layout for a WordPress Blog - Part 04  
+
+[TOC](#Table-of-Contents)  
 
 # 92. Exercise: Create a UI Design Layout for an Ecommerce Website  
 
   UXW Screenshot Storefront Theme
   UXW Ecommerce Images
+
+[TOC](#Table-of-Contents)  
+
 # 93. SNACK BREAK: Evaluate Your UI Design  
+
+[TOC](#Table-of-Contents)  
 
 # 94. Design Takeaways: Things to Remember  
 
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

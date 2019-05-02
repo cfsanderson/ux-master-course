@@ -39,6 +39,8 @@
 3) ***Navigation*** systems
 4) ***Search*** systems  
 
+[TOC](#Table-of-Contents)  
+
 # 37. What IS Information Architecture (IA)?
 IA means consciously organizing the content and flow of a website, app or system.  
 
@@ -69,6 +71,8 @@ IA vs Site map?
 
 The site map shows site navigation and main content areas, along with the relationships between the pages on the site.  
 
+[TOC](#Table-of-Contents)  
+
 # 38. Content Strategy: Identifying, Organizing and Delivering
 Content should always be strategically leveraged to serve a goal.
 
@@ -92,6 +96,8 @@ Content should always be strategically leveraged to serve a goal.
 - is it all about you or them?
 - is it answering their primary question: "what's in it for me?"  
 
+[TOC](#Table-of-Contents)  
+
 # 39. Determining Content Requirements  
 
 ## Questions to ask:
@@ -106,6 +112,8 @@ Content should always be strategically leveraged to serve a goal.
 - Where does this fit in our established IA?  
 - How will we display all of this?  
 - Are there form factor restrictions?  
+
+[TOC](#Table-of-Contents)  
 
 # 40. Exercise: Identifying Content Workflows
 
@@ -142,6 +150,8 @@ Diagram what you learn about their **roles**, **tasks**, and **relationships**
 - How dow we manage multiple approvers (editors)? Are requests for approval delegated to other approvers if an assigned editor is out of the office?
 - How do we manage workflow when multiple authors are working on the same page? (GIT, checkout process, Google Docs).
 - Are content managers involved in the work flow process? Are they informed about publishing updates? Are they repsonsible for dcoumenting changes in the system somewhere?
+
+[TOC](#Table-of-Contents)  
 
 # 41. My Tips for Successful Information IA Modeling
 ![screenshot-047](../img/screenshots-047.jpg)  
@@ -188,6 +198,8 @@ it's purpose, stategy, form, and function should all revolve around user expecta
 ![screenshot-048](../img/screenshots-048.jpg)  
 ![screenshot-049](../img/screenshots-049.jpg)  
 
+[TOC](#Table-of-Contents)  
+
 # 42. Creating and Prioritizing IA
 
 ## Categories and labeling
@@ -195,6 +207,8 @@ it's purpose, stategy, form, and function should all revolve around user expecta
 Need to address 2 things:
 1) **Content** labeling and taxonomy
 2) **File** (HTML) naming and taxonomy
+
+[TOC](#Table-of-Contents)  
 
 # 43. Content Labeling
 
@@ -226,6 +240,8 @@ It's your job to guide your client - by asking some very simple questions about 
 - **Make sure your organizational scheme makes sense to users.** No model numbers.  
 - **Don't rely on your own opionions.** Test!  
 
+[TOC](#Table-of-Contents)  
+
 # 44. File Naming
 
 Consistency between your IA and your file structure give you and/or your team a **map** for where everything goes and what it's called.  
@@ -241,6 +257,8 @@ this give everyone a shared understanding of where content lives and what it's c
 ![screenshot-051](../img/screenshots-051.jpg)  
 ![screenshot-052](../img/screenshots-052.jpg)  
 
+[TOC](#Table-of-Contents)  
+
 # 45. Grouping and Classifying Content
 
 ## Most commoon content classification methods - and how to use them.  
@@ -252,6 +270,8 @@ this give everyone a shared understanding of where content lives and what it's c
 - Process Order
 
 ![screenshot-053](../img/screenshots-053.jpg)  
+
+[TOC](#Table-of-Contents)  
 
 # 46. Exercise: Determining Information Priority
 

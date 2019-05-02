@@ -12,14 +12,16 @@
 
 # 1. Prepare to Launch! Approval, Testing, Bugs and Beyond  
 
+[TOC](#Table-of-Contents)  
+
 # 2. Pre-Launch Checklist: What to Do Before You Launch  
   186-Pre-Launch-Checklist.docx
 
+[TOC](#Table-of-Contents)  
+
 # 3. Bonus: Convincing Clients/Stakeholders to Include UX in Requirements Work  
 
-
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

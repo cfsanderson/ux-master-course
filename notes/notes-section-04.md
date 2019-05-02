@@ -36,6 +36,8 @@ You can't test everything
 - not every scenario matters
   - e.g. top 5 browsers
 
+[TOC](#Table-of-Contents)  
+
 # 27. Creating a Test Plan: Who Are We Testing For?
 
 Questions for identifying who you're testing for:
@@ -51,6 +53,8 @@ Check out sites such as:
 - Net Market Share
 - Stat Counter
 
+[TOC](#Table-of-Contents)  
+
 # 28. Prioritizing Device and Browser Support
 
 - Fully Supported
@@ -64,6 +68,8 @@ Check out sites such as:
   - degradation in the UI connot obscure content
 - Unsupported
   - No support or testing will be performed.  
+
+[TOC](#Table-of-Contents)  
 
 # 29. What to Test: Functionality (1/6)
 
@@ -89,6 +95,8 @@ Check out sites such as:
   - ensure all DB queries are executing correctly
   - ensure data is retrieved correctly
   - ensure data is updated correctly
+
+[TOC](#Table-of-Contents)  
 
 # 30. What to Test: Usability (2/6)
 
@@ -121,9 +129,13 @@ Check out sites such as:
   - if not, what prevented them from succeeding?
   - what's the consequence of each task failure - lost customers, increased support costs, inaccurate data captured?
 
+[TOC](#Table-of-Contents)  
+
 # 31. What to Test: Errors and Exceptions (3/6)  
 
 ![screenshot-039](../img/screenshots-039.jpg)
+
+[TOC](#Table-of-Contents)  
 
 # 32. What to Test: Compatibility (4/6)  
 
@@ -132,14 +144,20 @@ Compatibility covers what happens when the site is used across different devices
 ![screenshot-040](../img/screenshots-040.jpg)
 ![screenshot-041](../img/screenshots-041.jpg)
 
+[TOC](#Table-of-Contents)  
+
 # 33. What to Test: Performance (5/6)
 
 ![screenshot-042](../img/screenshots-042.jpg)
+
+[TOC](#Table-of-Contents)  
 
 # 34. What to Test: Security (6/6)
 
 ![screenshot-043](../img/screenshots-043.jpg)
 ![screenshot-044](../img/screenshots-044.jpg)
+
+[TOC](#Table-of-Contents)  
 
 # 35. Definition Takeaways: Things to Remember
 

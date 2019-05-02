@@ -14,15 +14,19 @@
 # 158. Exercise: Customizing Your Theme Header, Part 01  
   Blog Course Files.zip
 
+[TOC](#Table-of-Contents)  
+
 # 159. Exercise: Customizing Your Theme Header, Part 02  
+
+[TOC](#Table-of-Contents)  
 
 # 160. Exercise: Customizing Your Page Content  
 
+[TOC](#Table-of-Contents)  
+
 # 161. Exercise: Customizing Your Footer  
 
-
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

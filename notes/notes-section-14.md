@@ -27,43 +27,75 @@
 
 # 162. Installing WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 163. Basic Settings: Getting Started with WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 164. Product Settings: Configuring Products in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 165. Tax Settings: Configuring Sales Tax in WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 166. Checkout Settings: Configuring Checkout Options in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 167. Shipping Settings: Configuring Shipping in WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 168. Account Settings: Configuring Customer Accounts in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 169. Product Categories: Adding Product Categories in WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 170. Adding Simple Products in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 171. Adding Variable Products in WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 172. Adding Virtual and Downloadable Products in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 173. Adding Linked and Related Products in WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 174. Creating Coupons: Configuring Special Offers in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 175. Customizing Email: Email Messaging Customization in WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 176. Managing Orders with WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 177. Managing Inventory with WooCommerce  
+
+[TOC](#Table-of-Contents)  
 
 # 178. Reporting: Sales Reporting in WooCommerce  
 
+[TOC](#Table-of-Contents)  
+
 # 179. Configuring Product Category Navigation in WooCommerce  
 
-
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

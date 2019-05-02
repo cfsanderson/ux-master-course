@@ -32,53 +32,95 @@
 
 # 135. Installing WordPress Automatically: Using Your Hosting Provider's CPanel  
 
+[TOC](#Table-of-Contents)  
+
 # 136. Installing WordPress Manually: Using an FTP Client  
+
+[TOC](#Table-of-Contents)  
 
 # 137. The WordPress Dashboard: A Quick Tour of Features and Functions  
 
+[TOC](#Table-of-Contents)  
+
 # 138. Posts vs. Pages: Creating Content in WordPress  
+
+[TOC](#Table-of-Contents)  
 
 # 139. Categories: Organizing WordPress Content  
 
+[TOC](#Table-of-Contents)  
+
 # 140. Tags: Adding Context To Your Posts  
+
+[TOC](#Table-of-Contents)  
 
 # 141. Comments: Connecting and Managing Conversations  
 
+[TOC](#Table-of-Contents)  
+
 # 142. Formatting Text: Using the WordPress Text Editor  
+
+[TOC](#Table-of-Contents)  
 
 # 143. Adding Hyperlinks: Creating and Managing Links in WordPress  
 
+[TOC](#Table-of-Contents)  
+
 # 144. Adding Images: Inserting and Managing Images in WordPress  
+
+[TOC](#Table-of-Contents)  
 
 # 145. Adding Video: Inserting and Managing Video in WordPress  
 
+[TOC](#Table-of-Contents)  
+
 # 146. Working with Plugins: Extending WordPress Features and Functions  
+
+[TOC](#Table-of-Contents)  
 
 # 147. Exercise: Adding a Contact Form Plugin  
 
+[TOC](#Table-of-Contents)  
+
 # 148. Using Widgets: Enhancing Your WordPress Layout  
+
+[TOC](#Table-of-Contents)  
 
 # 149. Exercise: Adding a Widget  
 
+[TOC](#Table-of-Contents)  
+
 # 150. Choosing a WordPress Theme: Finding, Evaluating and Installing  
+
+[TOC](#Table-of-Contents)  
 
 # 151. Customizing Your Theme: Structure, Content and Appearance  
 
+[TOC](#Table-of-Contents)  
+
 # 152. Creating Custom Menus: Replacing Theme Menus  
+
+[TOC](#Table-of-Contents)  
 
 # 153. Using the Code Editor: Modifying Your WordPress Theme  
 
+[TOC](#Table-of-Contents)  
+
 # 154. WordPress Settings: General, Reading, Writing and Permalinks  
+
+[TOC](#Table-of-Contents)  
 
 # 155. Users and Roles: Assigning WordPress Access and Privileges  
 
+[TOC](#Table-of-Contents)  
+
 # 156. WordPress Backup: Backing Up Your Blog and Database  
+
+[TOC](#Table-of-Contents)  
 
 # 157. Updating WordPress: Automatic and Manual Updates  
 
-
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

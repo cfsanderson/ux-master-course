@@ -44,80 +44,147 @@
 
 # 95. Development: Coding, Customizing and Configuring  
 
+[TOC](#Table-of-Contents)  
+
 # 96. Dreaming in Code: You've Got the Power!  
+
+[TOC](#Table-of-Contents)  
 
 # 97. Hosting & Domain Considerations  
 
+[TOC](#Table-of-Contents)  
+
 # 98. File Structure and FTP: Organizing & Uploading  
+
+[TOC](#Table-of-Contents)  
 
 # 99. Basic HTML Structure: Building a Solid Foundation  
 
+[TOC](#Table-of-Contents)  
+
 # 100. Tags, Elements and Attributes: Describing HTML Content  
+
+[TOC](#Table-of-Contents)  
 
 # 101. What's In a Name? Titles and Headings  
 
+[TOC](#Table-of-Contents)  
+
 # 102. Formatting Paragraphs: Creating and Styling Text Content  
 
+[TOC](#Table-of-Contents)  
+
 # 103. Organizing Your Code: Using Indentation and Comments  
+
+[TOC](#Table-of-Contents)  
 
 # 104. Creating Your First Web Page: Applying What You've Learned  
   Lecture-104-exercise.zip
   HTML-CSS Course Files.zip
 
+[TOC](#Table-of-Contents)  
+
 # 105. Content Elements – Hyperlinks: Getting from Here to There  
+
+[TOC](#Table-of-Contents)  
 
 # 106. Content Elements – Unordered and Ordered Lists: Creating and Formatting  
 
+[TOC](#Table-of-Contents)  
+
 # 107. Content Elements – Images: Adding Images and Defining Attributes  
+
+[TOC](#Table-of-Contents)  
 
 # 108. Content Elements – Audio and Video: Adding Media to Your Web Page  
 
+[TOC](#Table-of-Contents)  
+
 # 109. Font Styling: Defining Style, Color and Size  
+
+[TOC](#Table-of-Contents)  
 
 # 110. Exercise: Adding Images, Unordered Lists and Hyperlinks  
   Lecture-110-exercise.zip
 
+[TOC](#Table-of-Contents)  
+
 # 111. CSS – Content Styling: Adding Good Skin to Good Bones  
+
+[TOC](#Table-of-Contents)  
 
 # 112. CSS – Inline, Internal or External? Getting Smart  
 
+[TOC](#Table-of-Contents)  
+
 # 113. CSS – Inheritance: Sharing Attributes Efficiently  
+
+[TOC](#Table-of-Contents)  
 
 # 114. CSS – Background Color and Image: Creating Background Effects  
 
+[TOC](#Table-of-Contents)  
+
 # 115. CSS – Font Color and Weight: Giving Text Impact and Emphasis  
+
+[TOC](#Table-of-Contents)  
 
 # 116. CSS – Classes and Spans: Getting Specific with Styling  
 
+[TOC](#Table-of-Contents)  
+
 # 117. CSS – Working with Divs: Dividing and Conquering with Classes and IDs  
 
+[TOC](#Table-of-Contents)  
+
 # 118. CSS – Link Styling: Using Text Decoration  
+
+[TOC](#Table-of-Contents)  
 
 # 119. Exercise – Creating a Navigation Menu: Leveraging CSS for Wayfinding  
   Lecture-119-exercise.zip
 
+[TOC](#Table-of-Contents)  
+
 # 120. Basic Table Structure: Organizing Content  
+
+[TOC](#Table-of-Contents)  
 
 # 121. Styling Tables with CSS: Enhancing Communication and Readability  
 
+[TOC](#Table-of-Contents)  
+
 # 122. Margins and Padding: Establishing Purposeful Negative Space  
+
+[TOC](#Table-of-Contents)  
 
 # 123. Display and Positioning: What, Where and How  
 
+[TOC](#Table-of-Contents)  
+
 # 124. The Box Model: The Parts and the Whole  
+
+[TOC](#Table-of-Contents)  
 
 # 125. Float and Clear: Controlling Visual Flow  
 
+[TOC](#Table-of-Contents)  
+
 # 126. Nested Layouts: Using Divs for Precision and Flexibility  
+
+[TOC](#Table-of-Contents)  
 
 # 127. Forms: Creating Good Input (and Output)  
 
+[TOC](#Table-of-Contents)  
+
 # 128. Creating Forms: Grouping Form Data  
+
+[TOC](#Table-of-Contents)  
 
 # 129. Styling Forms with CSS: Creating Consistency and Usability  
 
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

@@ -26,7 +26,7 @@
 - How will we measure success?
 - What can we realistically do?
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 # 5. Three Crucial Questions (You Must Ask)
 
@@ -36,7 +36,7 @@ Websites are strategic. Have to know 3 things:
 2. What are we creating?
 3. What value does it provide?
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 # 6. What's Worth Doing?
 
@@ -46,7 +46,7 @@ Tradeoffs between **importance** and **feasibility** and **viability**
 
 ![](../img/)
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 # 7. What Are We Creating?
 
@@ -63,7 +63,7 @@ Doesnt' have to be formal, just do it and make it available.
 - platform, 
 - content
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 # 8. What Value Does It Provide?
 
@@ -77,7 +77,7 @@ Doesnt' have to be formal, just do it and make it available.
 2. What are we creating?
 3. What value does it provide?
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 # 9. SNACK BREAK: Who Are Your Users?
 
@@ -86,7 +86,7 @@ Identify User Needs:
 - What do they expect?
 - Why do those things matter to them?
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 # 10. Exercise: Determining Value & Strategic Opportunity
 
@@ -98,7 +98,7 @@ Identify User Needs:
 ![screenshot-006](../img/screenshots-006.jpg)
 ![screenshot-007](../img/screenshots-007.jpg)
 
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 

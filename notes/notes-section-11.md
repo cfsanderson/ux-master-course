@@ -15,19 +15,26 @@
 # 130. Exercise: Create Your B2B Website Header  
   Lecture-130-exercise.zip
 
+[TOC](#Table-of-Contents)  
+
 # 131. Exercise: Create Your B2B Website Content  
   Lecture-131-exercise.zip
+
+[TOC](#Table-of-Contents)  
 
 # 132. Exercise: Create Your B2B Website Footer  
   Lecture-132-exercise.zip
 
+[TOC](#Table-of-Contents)  
+
 # 133. Exercise: Create Your B2B Web Page: Putting It All Together  
   Lecture-133-exercise.zip
 
+[TOC](#Table-of-Contents)  
+
 # 134. Browser Testing: Tips and Tools  
 
-
-[Table of Contents](#Table-of-Contents:)  
+[TOC](#Table-of-Contents)  
 
 [Back to Course Outline](../README.md)  
 
