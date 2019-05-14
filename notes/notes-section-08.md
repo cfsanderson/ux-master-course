@@ -19,7 +19,13 @@
       - [Readers](#readers)
     - [3) Brand matters.](#3-brand-matters)
 - [75. How Definition and IA Inform UI Design](#75-how-definition-and-ia-inform-ui-design)
+  - [Revisit your strategy](#revisit-your-strategy)
+  - [IA = information priority](#ia--information-priority)
+  - [Takeaway:](#takeaway)
 - [76. Timeless UI Design Principles, Part 01](#76-timeless-ui-design-principles-part-01)
+  - [Affordance](#affordance)
+  - [Closure](#closure)
+  - [Consistency](#consistency)
 - [77. Timeless UI Design Principles, Part 02](#77-timeless-ui-design-principles-part-02)
 - [78. Timeless UI Design Principles, Part 03](#78-timeless-ui-design-principles-part-03)
 - [79. Timeless UI Design Principles, Part 04](#79-timeless-ui-design-principles-part-04)
@@ -50,7 +56,7 @@ It's no wonder that Google has had such monstrous success while surrounded by mi
 
 ## Better urban planning
 
-In order for you UI Design to be **appropriate**, three things have to happen:  
+In order for your UI Design to be **appropriate**, three things have to happen:  
 
 1) It cannot be **generic**.
 2) It has to be informed by the **type of audience** who will use the website.
@@ -76,9 +82,9 @@ Generic UI design is easy, but it's unmemorable. And unmemorable means quickly f
 
 ### 2) Audience first.  
 
-**Trying to be everything to everybody rearely works.** Is it an entertaining blog, an impartial resource or a glorified sales brochure?  
+**Trying to be everything to everybody rarely works.** Is it an entertaining blog, an impartial resource or a glorified sales brochure?  
 
-**The Web isn't software, or TV, or print, but it functions in similar ways.** That function (and form) depends enteirly on who it's for - users, viewers, or readers.  
+**The Web isn't software, or TV, or print, but it functions in similar ways.** That function (and form) depends entirely on who it's for - users, viewers, or readers.  
 
 #### Users  
 
@@ -97,8 +103,10 @@ Generic UI design is easy, but it's unmemorable. And unmemorable means quickly f
 
 #### Readers  
 - **Readers turn to a web site as they might turn to a novel or magazine article.** They expect and want to invest time.
-- **Visual cues in the UI should signal ROI.** [Medium.com](https://medium.com/) shows estimated time it will take the viewer to read an article.  
-- **Blogs are for readers.** Lots of negative space, large fonts, frequent paragraph and page breaks to ease eye strain.  
+- **Visual cues in the UI should signal ROI.**
+  - [Medium.com](https://medium.com/) shows estimated time it will take the viewer to read an article.  
+- **Blogs are for readers.**
+  - Lots of negative space, large fonts, frequent paragraph and page breaks to ease eye strain.  
 
 ### 3) Brand matters.  
 
@@ -116,13 +124,66 @@ Your website - in form, content, and funtction - must **communicate your brand i
 
 # 75. How Definition and IA Inform UI Design  
 
+## Revisit your strategy  
 
+![screenshot-088](../img/screenshots-088.jpg)  
+
+## IA = information priority  
+
+![screenshot-089](../img/screenshots-089.jpg)  
+![screenshot-090](../img/screenshots-090.jpg)  
+
+## Takeaway:  
+
+Every UI decision you make should provide **visible evidence of value.**
 
 [TOC](#Table-of-Contents)  
 
 # 76. Timeless UI Design Principles, Part 01  
 
+## Affordance
+- **Physical characteristics** of an element suggest and influence how it's used.
+- Onscreen this is **purely visual** - buttons and fields, for example. 
+- It should be **inconceivable** that the design could function or be used any other way.
+- Design individual elements - and the app or site as a whole - to **afford intended function** and **discourage improper use.**
 
+![screenshot-091](../img/screenshots-091.jpg)  
+![screenshot-092](../img/screenshots-092.jpg)  
+
+## Closure  
+
+When an object is **incomplete** - but enough of it is indicated - the mind percieves the object to be whole by **mentally filling the information.**
+
+![screenshot-093](../img/screenshots-093.jpg)  
+![screenshot-094](../img/screenshots-094.jpg)  
+
+![screenshot-095](../img/screenshots-095.jpg)  
+![screenshot-096](../img/screenshots-096.jpg)  
+
+## Consistency  
+
+Usability is improved when similar parts are expressed in similar ways. Consistency in aesthetic style & appearance:  
+
+- enhances **recognition**  
+![screenshot-097](../img/screenshots-097.jpg)  
+
+- communicates **membership**  
+![screenshot-098](../img/screenshots-098.jpg)  
+
+- sets emotional **expectation**  
+![screenshot-099](../img/screenshots-099.jpg)  
+
+- establishes & reinforces unique identity  
+![screenshot-100](../img/screenshots-100.jpg)  
+
+**Functional** consistency
+![screenshot-101](../img/screenshots-101.jpg)  
+
+Good:  
+![screenshot-102](../img/screenshots-102.jpg)  
+
+Not Good: "death by a thousand cuts"  
+![screenshot-103](../img/screenshots-103.jpg)  
 
 [TOC](#Table-of-Contents)  
 
