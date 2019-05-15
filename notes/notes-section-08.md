@@ -27,7 +27,15 @@
   - [Closure](#closure)
   - [Consistency](#consistency)
 - [77. Timeless UI Design Principles, Part 02](#77-timeless-ui-design-principles-part-02)
+  - [Continuation](#continuation)
+  - [Face-ism ratio](#face-ism-ratio)
+  - [Enclosure](#enclosure)
+  - [Figure-ground relationship](#figure-ground-relationship)
+  - [Similarity](#similarity)
 - [78. Timeless UI Design Principles, Part 03](#78-timeless-ui-design-principles-part-03)
+  - [Fitt's law](#fitts-law)
+  - [Occam's razor](#occams-razor)
+  - [Hick's law (8:48 - lecture 78)](#hicks-law-848---lecture-78)
 - [79. Timeless UI Design Principles, Part 04](#79-timeless-ui-design-principles-part-04)
 - [80. SNACK BREAK: Identify Design Principles in an Existing UI](#80-snack-break-identify-design-principles-in-an-existing-ui)
 
@@ -189,12 +197,101 @@ Not Good: "death by a thousand cuts"
 
 # 77. Timeless UI Design Principles, Part 02  
 
+## Continuation  
+
+![screenshot-104](../img/screenshots-104.jpg)  
+![screenshot-105](../img/screenshots-105.jpg)  
+
+## Face-ism ratio  
+
+- ratio of **face-to-body** in an image influences the way the person in the image is perceived.  
+- face focuses attention on **intellectual** and **personality** attributes.  
+- body focuses attention on **physical** and **sensual** attributes.  
+
+![screenshot-106](../img/screenshots-106.jpg)  
+![screenshot-107](../img/screenshots-107.jpg)  
+
+![screenshot-108](../img/screenshots-108.jpg)  
+![screenshot-109](../img/screenshots-109.jpg)  
+
+## Enclosure  
+
+Things that appear to have a boundary around them ar perceived to be **grouped** - and therefore **related** (e.g. Twitter's UI).  
+
+![screenshot-110](../img/screenshots-110.jpg)  
+
+## Figure-ground relationship  
+
+- **figure:** definite shape, close
+- **ground:** shapeless, far  
+- stable relationship focuses **attention**  
+- minimizes perceptual **confusion**  
+- increases **recognition** of key elements  
+- ambiguous relationships make bad communication design!  
+
+![screenshot-111](../img/screenshots-111.jpg)  
+![screenshot-112](../img/screenshots-112.jpg)  
+
+- **transparent, darker background** de-emphasizes existing content.  
+- **contrast** between modal window color and darker transparent background.
+- manipulating the **figure-ground relationship** makes this workflow clear.
+
+![screenshot-113](../img/screenshots-113.jpg)  
+
+- Deiter Rams' **final principle** for good design states "as little design as possible."
+- What's the **least amount of detail** that can be added to create the necessary impact?
+- Applying Gestalt principles like figure-ground creates focus on the **essential meaning** in your UI.
+
+![screenshot-114](../img/screenshots-114.jpg)  
+
+## Similarity  
+- Similar are perceived to be part of a **group** or **pattern**  
+- Pinterest **entries** are all visually similar
+- **Interaction patterns** for each entry are also similar.  
+
+![screenshot-115](../img/screenshots-115.jpg)  
+![screenshot-116](../img/screenshots-116.jpg)  
+![screenshot-117](../img/screenshots-117.jpg)  
+
+- Apple's app store
+
+![screenshot-118](../img/screenshots-118.jpg)  
 
 
 [TOC](#Table-of-Contents)  
 
 # 78. Timeless UI Design Principles, Part 03  
 
+## Fitt's law  
+The time required to move to a target area (e.g. tap or click a button) is a function of:  
+- **distance** to the target
+- **size** of the target
+
+![screenshot-119](../img/screenshots-119.jpg)  
+![screenshot-120](../img/screenshots-120.jpg)  
+
+## Occam's razor  
+The **simplest** solution is usually the **best** solution:
+- minimize cognitive effect
+- **recognition** over recall
+- make things look like what ehy are in **real life** (skeumorphism)
+
+![screenshot-121](../img/screenshots-121.jpg)  
+
+If you take this principle one step further, you keep the visual metaphor, but **simplify visual presentation.**   
+
+![screenshot-122](../img/screenshots-122.jpg)  
+
+In other words, you create **flat design**.
+
+![screenshot-123](../img/screenshots-123.jpg)  
+![screenshot-124](../img/screenshots-124.jpg)  
+![screenshot-125](../img/screenshots-125.jpg)  
+![screenshot-126](../img/screenshots-126.jpg)  
+![screenshot-127](../img/screenshots-127.jpg)  
+
+
+## Hick's law  (8:48 - lecture 78)
 
 
 [TOC](#Table-of-Contents)  
