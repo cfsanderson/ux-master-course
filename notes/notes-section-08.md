@@ -37,6 +37,8 @@
   - [Occam's razor](#occams-razor)
   - [Hick's law (8:48 - lecture 78)](#hicks-law-848---lecture-78)
 - [79. Timeless UI Design Principles, Part 04](#79-timeless-ui-design-principles-part-04)
+  - [Depth of Processing](#depth-of-processing)
+  - [Forgiveness](#forgiveness)
 - [80. SNACK BREAK: Identify Design Principles in an Existing UI](#80-snack-break-identify-design-principles-in-an-existing-ui)
 
 # 73. "What's It Gonna Look Like?" An Introduction to Design  
@@ -293,10 +295,54 @@ In other words, you create **flat design**.
 
 ## Hick's law  (8:48 - lecture 78)
 
+"Not information overload, it's filter failure."
+
+In the era of infinite choice, people need **better filters**.  
+
+Every additional choice **increases the time required** to make a decision.  
+
+- too many choices **paralyze** our thought process.
+- this was illustrated perfectly in [*The Art of Choosing* by Sheena Iyengar](https://www.amazon.com/dp/0446504114/ref=cm_sw_em_r_mt_dp_U_WbO3Cb68G50G8) - specifically, a "Jam Study" she references.  
+
+![screenshot-128](../img/screenshots-128.jpg)  
+![screenshot-129](../img/screenshots-129.jpg)  
+![screenshot-130](../img/screenshots-130.jpg)  
 
 [TOC](#Table-of-Contents)  
 
 # 79. Timeless UI Design Principles, Part 04  
+
+## Depth of Processing  
+
+Information analyzed **deeply** is better recalled than information analyzed **superficially**.  
+
+- **Maintenance rehearsal:** repeating exiting or previous analysis (e.g. repeating a phone number back to yourself to help you remember.)
+- **Elaborative rehearsal:** deeper, more meaningful analysis (e.g. reading a text passage and then answering questions about its meaning.)
+- With **elaborative rehearsal**, recall is 2-3 times better and more accurate.  
+
+Depth of processing is improved through:  
+- Use of **multiple presentation media.** (e.g. video combined with captions)  
+- Activities that engage users in **elaborative rehearsal** (e.g. interacitve Q&A, first-person role playing). 
+  - Udemy website with video player, notes, etc.
+  - first-person games
+
+## Forgiveness  
+
+UI design should help people **avoid errors** and **minimize negative consequences** via:
+- **Confirmation**
+  - require verification of intent, or confirm prior action/task completion.
+  - Photoshop - "Crop the image" with buttons for **don't crop**, **cancel**, and **crop**  
+- **Help**
+  - Assistance with basic operations, troubleshooting, and error recovery.
+- **Reversability**
+  - Allow one or more actions to be reversed if an error occurs or intent changes. 
+- **Warnings**
+  - Communicate consequenes of actions.
+  - "Are you sure you want to do that?" with **Cancel** and **Delete** buttons or **Yes, I'm sure** and **Cancel** buttons
+  - **Caveat:** *too many* confirmations or warnings increase the likelihood they'll be ignored.
+
+
+
 
 
 
