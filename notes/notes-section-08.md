@@ -124,7 +124,7 @@ Generic UI design is easy, but it's unmemorable. And unmemorable means quickly f
 - **If I can replace the logo on your site with someone else's** - and everything still works together visually and verbally - your UI design is generic.
 - **Building an unique, memorable visual brand identity is one way smaller organizations get larger.** It's also how the larger ones stay on top.  
 
-Your website - in form, content, and funtction - must **communicate your brand identity:**
+Your website - in form, content, and function - must **communicate your brand identity:**
 - What does this person, product, or service do that makes it so **different**?
 - What has this organization done lately that makes it **stand out**?
 - What is your greatest and clearest **strength**?
@@ -252,8 +252,16 @@ Things that appear to have a boundary around them ar perceived to be **grouped**
 - **Interaction patterns** for each entry are also similar.  
 
 ![screenshot-115](../img/screenshots-115.jpg)  
+
+<p class="centered">(normal state)</p>  
+
 ![screenshot-116](../img/screenshots-116.jpg)  
-![screenshot-117](../img/screenshots-117.jpg)  
+
+<p class="centered">(hovering ABE image shows same tools as...)</p>
+
+![screenshot-117](../img/screenshots-117.jpg)
+
+<p class="centered">(hovering swimsuit image - same tools presented)</p>
 
 - Apple's app store
 
@@ -276,7 +284,7 @@ The time required to move to a target area (e.g. tap or click a button) is a fun
 The **simplest** solution is usually the **best** solution:
 - minimize cognitive effect
 - **recognition** over recall
-- make things look like what ehy are in **real life** (skeumorphism)
+- make things look like what they are in **real life** (skeumorphism)
 
 ![screenshot-121](../img/screenshots-121.jpg)  
 
@@ -357,3 +365,11 @@ UI design should help people **avoid errors** and **minimize negative consequenc
 [Back to Course Outline](../README.md)  
 
 [< Section 7](../notes/notes-section-07.md) | [Section 9 >](../notes/notes-section-09.md)  
+
+<style>
+
+.centered {
+  text-align: center;
+}
+
+</style>  
