@@ -31,7 +31,6 @@
 What is UX?
 
 5 planes - Jesse James Garrett
-
 - Surface
 - Skeleton
 - Structure
