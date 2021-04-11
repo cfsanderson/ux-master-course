@@ -33,7 +33,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 23. Determining Project Scope
 24. Controlling Scope Creep
 25. Exercise: Smart Project Scoping
-  GGUX-buy-feature-cards.docx
+    GGUX-buy-feature-cards.docx
 
 # [Section 4: Definition: Planning for Success Part III](./notes/notes-section-04.md)
 
@@ -92,8 +92,8 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 69. SNACK BREAK: Try Creating a Basic Wireframe on Your Own
 70. Exercise: Creating a B2B Wireframe with Axure RP Pro
 71. Socializing and Validating Wireframes
-  Wireframe Presentation Script
-  Wireframe Signoff Template
+    Wireframe Presentation Script
+    Wireframe Signoff Template
 72. Architecture Takeaways: Things to Remember
 
 # [Section 8: Design: Information, Interaction and Interface](./notes/notes-section-08.md)
@@ -121,8 +121,8 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 90. Exercise: Create a UI Design Layout for a WordPress Blog - Part 03
 91. Exercise: Create a UI Design Layout for a WordPress Blog - Part 04
 92. Exercise: Create a UI Design Layout for an Ecommerce Website
-  UXW Screenshot Storefront Theme
-  UXW Ecommerce Images
+    UXW Screenshot Storefront Theme
+    UXW Ecommerce Images
 93. SNACK BREAK: Evaluate Your UI Design
 94. Design Takeaways: Things to Remember
 
@@ -133,51 +133,51 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 97. Hosting & Domain Considerations
 98. File Structure and FTP: Organizing & Uploading
 99. Basic HTML Structure: Building a Solid Foundation
-100. Tags, Elements and Attributes: Describing HTML Content
-101. What's In a Name? Titles and Headings
-102. Formatting Paragraphs: Creating and Styling Text Content
-103. Organizing Your Code: Using Indentation and Comments
-104. Creating Your First Web Page: Applying What You've Learned
-  Lecture-104-exercise.zip
-  HTML-CSS Course Files.zip
-105. Content Elements – Hyperlinks: Getting from Here to There
-106. Content Elements – Unordered and Ordered Lists: Creating and Formatting
-107. Content Elements – Images: Adding Images and Defining Attributes
-108. Content Elements – Audio and Video: Adding Media to Your Web Page
-109. Font Styling: Defining Style, Color and Size
-110. Exercise: Adding Images, Unordered Lists and Hyperlinks
-  Lecture-110-exercise.zip
-111. CSS – Content Styling: Adding Good Skin to Good Bones
-112. CSS – Inline, Internal or External? Getting Smart
-113. CSS – Inheritance: Sharing Attributes Efficiently
-114. CSS – Background Color and Image: Creating Background Effects
-115. CSS – Font Color and Weight: Giving Text Impact and Emphasis
-116. CSS – Classes and Spans: Getting Specific with Styling
-117. CSS – Working with Divs: Dividing and Conquering with Classes and IDs
-118. CSS – Link Styling: Using Text Decoration
-119. Exercise – Creating a Navigation Menu: Leveraging CSS for Wayfinding
-  Lecture-119-exercise.zip
-120. Basic Table Structure: Organizing Content
-121. Styling Tables with CSS: Enhancing Communication and Readability
-122. Margins and Padding: Establishing Purposeful Negative Space
-123. Display and Positioning: What, Where and How
-124. The Box Model: The Parts and the Whole
-125. Float and Clear: Controlling Visual Flow
-126. Nested Layouts: Using Divs for Precision and Flexibility
-127. Forms: Creating Good Input (and Output)
-128. Creating Forms: Grouping Form Data
-129. Styling Forms with CSS: Creating Consistency and Usability
+100.  Tags, Elements and Attributes: Describing HTML Content
+101.  What's In a Name? Titles and Headings
+102.  Formatting Paragraphs: Creating and Styling Text Content
+103.  Organizing Your Code: Using Indentation and Comments
+104.  Creating Your First Web Page: Applying What You've Learned
+      Lecture-104-exercise.zip
+      HTML-CSS Course Files.zip
+105.  Content Elements – Hyperlinks: Getting from Here to There
+106.  Content Elements – Unordered and Ordered Lists: Creating and Formatting
+107.  Content Elements – Images: Adding Images and Defining Attributes
+108.  Content Elements – Audio and Video: Adding Media to Your Web Page
+109.  Font Styling: Defining Style, Color and Size
+110.  Exercise: Adding Images, Unordered Lists and Hyperlinks
+      Lecture-110-exercise.zip
+111.  CSS – Content Styling: Adding Good Skin to Good Bones
+112.  CSS – Inline, Internal or External? Getting Smart
+113.  CSS – Inheritance: Sharing Attributes Efficiently
+114.  CSS – Background Color and Image: Creating Background Effects
+115.  CSS – Font Color and Weight: Giving Text Impact and Emphasis
+116.  CSS – Classes and Spans: Getting Specific with Styling
+117.  CSS – Working with Divs: Dividing and Conquering with Classes and IDs
+118.  CSS – Link Styling: Using Text Decoration
+119.  Exercise – Creating a Navigation Menu: Leveraging CSS for Wayfinding
+      Lecture-119-exercise.zip
+120.  Basic Table Structure: Organizing Content
+121.  Styling Tables with CSS: Enhancing Communication and Readability
+122.  Margins and Padding: Establishing Purposeful Negative Space
+123.  Display and Positioning: What, Where and How
+124.  The Box Model: The Parts and the Whole
+125.  Float and Clear: Controlling Visual Flow
+126.  Nested Layouts: Using Divs for Precision and Flexibility
+127.  Forms: Creating Good Input (and Output)
+128.  Creating Forms: Grouping Form Data
+129.  Styling Forms with CSS: Creating Consistency and Usability
 
 # [Section 11: Exercises: Build A B2B Website with HTML & CSS](./notes/notes-section-11.md)
 
 130. Exercise: Create Your B2B Website Header
-  Lecture-130-exercise.zip
+     Lecture-130-exercise.zip
 131. Exercise: Create Your B2B Website Content
-  Lecture-131-exercise.zip
+     Lecture-131-exercise.zip
 132. Exercise: Create Your B2B Website Footer
-  Lecture-132-exercise.zip
+     Lecture-132-exercise.zip
 133. Exercise: Create Your B2B Web Page: Putting It All Together
-  Lecture-133-exercise.zip
+     Lecture-133-exercise.zip
 134. Browser Testing: Tips and Tools
 
 # [Section 12: Development – WordPress Content Management System (CMS)](./notes/notes-section-12.md)
@@ -209,7 +209,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 # [Section 13: Exercises: Build A Blog with WordPress](./notes/notes-section-13.md)
 
 158. Exercise: Customizing Your Theme Header, Part 01
-  Blog Course Files.zip
+     Blog Course Files.zip
 159. Exercise: Customizing Your Theme Header, Part 02
 160. Exercise: Customizing Your Page Content
 161. Exercise: Customizing Your Footer
@@ -238,7 +238,7 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 # [Section 15: Exercises: Build An Ecommerce website with WooCommerce and WordPress](./notes/notes-section-15.md)
 
 180. Exercise: Creating Your Storefront Home Page, Part 01
-  eCommerce Course Files.zip
+     eCommerce Course Files.zip
 181. Exercise: Creating Your Storefront Home Page, Part 02
 182. Exercise: Creating Your Storefront Home Page, Part 03
 183. Exercise: Creating Your Storefront Home Page, Part 04
@@ -248,5 +248,5 @@ These are my course notes for the [UX & Web Design Master Course: Strategy, Desi
 
 185. Prepare to Launch! Approval, Testing, Bugs and Beyond
 186. Pre-Launch Checklist: What to Do Before You Launch
-  186-Pre-Launch-Checklist.docx
+     186-Pre-Launch-Checklist.docx
 187. Bonus: Convincing Clients/Stakeholders to Include UX in Requirements Work
